@@ -1,0 +1,229 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/霍里.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/huoli",
+  "map_path": "assets/images/levels/huoli/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        1
+      ],
+      "asset": "assets/images/levels/huoli/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "huoli_door",
+      "layer_path": [
+        2
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "huoli_flying_spike",
+      "layer_path": [
+        3,
+        0
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/spike_flying.png"
+    },
+    {
+      "id": "huoli_fragile_0",
+      "layer_path": [
+        6,
+        0,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/platform_fragile_0.png"
+    },
+    {
+      "id": "huoli_fragile_1",
+      "layer_path": [
+        6,
+        0,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/platform_fragile_1.png"
+    },
+    {
+      "id": "huoli_fragile_2",
+      "layer_path": [
+        6,
+        0,
+        8
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/platform_fragile_2.png"
+    },
+    {
+      "id": "huoli_fragile_3",
+      "layer_path": [
+        6,
+        0,
+        9
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/platform_fragile_3.png"
+    },
+    {
+      "id": "huoli_rail",
+      "layer_path": [
+        6,
+        1,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "id": "huoli_cart",
+      "layer_path": [
+        6,
+        1,
+        1
+      ],
+      "element_type": "moving_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/platform_cart.png"
+    },
+    {
+      "id": "huoli_spawn",
+      "layer_path": [
+        8
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "huoli_door_key",
+      "layer_path": [
+        12
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/huoli/key.png"
+    },
+    {
+      "id": "huoli_collectible",
+      "layer_path": [
+        11
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "exclude_relative_paths": [
+        [
+          0
+        ]
+      ],
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        4
+      ],
+      "element_type": "chain",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        5
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        0,
+        2
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        0,
+        3
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        0,
+        4
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        0,
+        5
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        0,
+        6
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        0,
+        7
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        1,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    }
+  ]
+}

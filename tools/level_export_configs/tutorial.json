@@ -1,0 +1,219 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/新手教程.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/tutorial",
+  "map_path": "assets/images/levels/tutorial/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        3
+      ],
+      "asset": "assets/images/levels/tutorial/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "tutorial_gate",
+      "layer_path": [
+        6
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "tutorial_gate2",
+      "layer_path": [
+        7
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "tutorial_door",
+      "layer_path": [
+        8
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "tutorial_lever",
+      "layer_path": [
+        12
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/lever.png"
+    },
+    {
+      "id": "tutorial_lever2",
+      "layer_path": [
+        13
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/lever.png"
+    },
+    {
+      "id": "tutorial_door_key",
+      "layer_path": [
+        18
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/key.png"
+    },
+    {
+      "id": "tutorial_spawn",
+      "layer_path": [
+        17
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "tutorial_collectible",
+      "layer_path": [
+        19
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "tutorial_rail",
+      "layer_path": [
+        10,
+        0,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "id": "tutorial_cart",
+      "layer_path": [
+        10,
+        0,
+        1
+      ],
+      "element_type": "moving_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/platform_cart.png"
+    },
+    {
+      "id": "tutorial_fragile_0",
+      "layer_path": [
+        10,
+        1,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/platform_fragile_0.png"
+    },
+    {
+      "id": "tutorial_fragile_1",
+      "layer_path": [
+        10,
+        1,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/platform_fragile_1.png"
+    },
+    {
+      "id": "tutorial_ice_0",
+      "layer_path": [
+        10,
+        3,
+        0
+      ],
+      "element_type": "ice_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/platform_ice_0.png"
+    },
+    {
+      "id": "tutorial_swamp_0",
+      "layer_path": [
+        10,
+        3,
+        1
+      ],
+      "element_type": "swamp_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/platform_swamp_0.png"
+    },
+    {
+      "id": "tutorial_ice_1",
+      "layer_path": [
+        10,
+        3,
+        2
+      ],
+      "element_type": "ice_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/tutorial/platform_ice_1.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        5
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        9
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        10,
+        2
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        10,
+        0,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        16
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        4
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

@@ -1,0 +1,1353 @@
+=== 流星飞.psd ===
+san | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 138 | type=ArtLayer | visible=true
+新建组 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 123 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+飞 | type=LayerSet | visible=true
+  图层 139 | type=ArtLayer | visible=true
+  拉 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  门 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  新建组 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  新建组 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  刺 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  栅栏 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  图层 138 | type=ArtLayer | visible=true
+  流星飞 | type=ArtLayer | visible=false
+已插入图像 | type=ArtLayer | visible=false
+背景 | type=ArtLayer | visible=true
+
+=== 剑圣.psd ===
+图层 5 | type=ArtLayer | visible=true
+san | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 2 | type=ArtLayer | visible=true
+背包 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 1 | type=ArtLayer | visible=true
+人物占位格60*80 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+钥匙 | type=ArtLayer | visible=true
+台子 | type=LayerSet | visible=true
+  破碎 | type=LayerSet | visible=true
+    已插入图像 拷贝 48 | type=ArtLayer | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  普通 | type=LayerSet | visible=true
+    已插入图像 拷贝 19 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+组块 | type=LayerSet | visible=true
+  组 3 拷贝 4 | type=LayerSet | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 拷贝 3 | type=LayerSet | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 拷贝 | type=LayerSet | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 4 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 | type=LayerSet | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 4 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 2 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 40 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 1 拷贝 | type=LayerSet | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 12 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 11 | type=ArtLayer | visible=true
+    已插入图像 拷贝 10 | type=ArtLayer | visible=true
+    已插入图像 拷贝 9 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 2 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 16 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+  组 1 | type=LayerSet | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 12 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 11 | type=ArtLayer | visible=true
+    已插入图像 拷贝 10 | type=ArtLayer | visible=true
+    已插入图像 拷贝 9 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 2 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 16 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+拉 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+栅栏 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+门 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+刺 | type=LayerSet | visible=true
+  已插入图像 拷贝 50 | type=ArtLayer | visible=true
+  已插入图像 拷贝 49 | type=ArtLayer | visible=true
+  图层 4 拷贝 | type=ArtLayer | visible=true
+  图层 4 | type=ArtLayer | visible=true
+  已插入图像 拷贝 53 | type=ArtLayer | visible=true
+  已插入图像 拷贝 52 | type=ArtLayer | visible=true
+  已插入图像 拷贝 51 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+图层 3 | type=ArtLayer | visible=true
+剑 | type=ArtLayer | visible=true
+背景 | type=ArtLayer | visible=true
+
+=== 里雪.psd ===
+图层 4 | type=ArtLayer | visible=true
+san | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 2 | type=ArtLayer | visible=true
+背包 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 1 | type=ArtLayer | visible=true
+人 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+钥匙 | type=ArtLayer | visible=true
+组块 | type=LayerSet | visible=true
+  组 7 | type=LayerSet | visible=true
+    已插入图像 拷贝 92 | type=ArtLayer | visible=true
+    已插入图像 拷贝 91 | type=ArtLayer | visible=true
+    已插入图像 拷贝 90 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 88 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 89 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 6 | type=LayerSet | visible=true
+  组 5 | type=LayerSet | visible=true
+    已插入图像 拷贝 65 | type=ArtLayer | visible=true
+    已插入图像 拷贝 64 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 67 | type=ArtLayer | visible=true
+    已插入图像 拷贝 66 | type=ArtLayer | visible=true
+    已插入图像 拷贝 75 | type=ArtLayer | visible=true
+    已插入图像 拷贝 74 | type=ArtLayer | visible=true
+    已插入图像 拷贝 73 | type=ArtLayer | visible=true
+    已插入图像 拷贝 72 | type=ArtLayer | visible=true
+    已插入图像 拷贝 71 | type=ArtLayer | visible=true
+    已插入图像 拷贝 70 | type=ArtLayer | visible=true
+    已插入图像 拷贝 69 | type=ArtLayer | visible=true
+    已插入图像 拷贝 68 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 | type=LayerSet | visible=true
+    已插入图像 拷贝 63 | type=ArtLayer | visible=true
+    已插入图像 拷贝 62 | type=ArtLayer | visible=true
+    已插入图像 拷贝 61 | type=ArtLayer | visible=true
+    已插入图像 拷贝 60 | type=ArtLayer | visible=true
+    已插入图像 拷贝 59 | type=ArtLayer | visible=true
+    已插入图像 拷贝 58 | type=ArtLayer | visible=true
+    已插入图像 拷贝 57 | type=ArtLayer | visible=true
+    已插入图像 拷贝 56 | type=ArtLayer | visible=true
+    已插入图像 拷贝 55 | type=ArtLayer | visible=true
+    已插入图像 拷贝 54 | type=ArtLayer | visible=true
+    已插入图像 拷贝 53 | type=ArtLayer | visible=true
+    已插入图像 拷贝 52 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 51 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 48 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 50 | type=ArtLayer | visible=true
+    已插入图像 拷贝 49 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 | type=LayerSet | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 拷贝 78 | type=ArtLayer | visible=true
+    已插入图像 拷贝 77 | type=ArtLayer | visible=true
+    已插入图像 拷贝 76 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 2 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 1 | type=LayerSet | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 16 | type=ArtLayer | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 拷贝 12 | type=ArtLayer | visible=true
+    已插入图像 拷贝 11 | type=ArtLayer | visible=true
+    已插入图像 拷贝 10 | type=ArtLayer | visible=true
+    已插入图像 拷贝 9 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 4 | type=ArtLayer | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 拷贝 2 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+台子 | type=LayerSet | visible=true
+  破碎 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  普通 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 19 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+门 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+拉 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+栅栏 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+刺 | type=LayerSet | visible=true
+  已插入图像 拷贝 40 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+图层 3 | type=ArtLayer | visible=true
+雪 | type=ArtLayer | visible=true
+背景 | type=ArtLayer | visible=true
+
+=== 萧然.psd ===
+图层 4 | type=ArtLayer | visible=true
+san | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 2 | type=ArtLayer | visible=true
+背包 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 1 | type=ArtLayer | visible=true
+钥匙 | type=ArtLayer | visible=true
+人占位格60*80 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+块组 | type=LayerSet | visible=true
+  组 5 拷贝 | type=LayerSet | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 5 | type=LayerSet | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 拷贝 4 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 拷贝 3 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 拷贝 2 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 拷贝 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 拷贝 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 拷贝 40 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 拷贝 40 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 2 | type=LayerSet | visible=true
+    已插入图像 拷贝 12 | type=ArtLayer | visible=true
+    已插入图像 拷贝 11 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 拷贝 19 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 16 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 1 | type=LayerSet | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 4 | type=ArtLayer | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 2 | type=ArtLayer | visible=true
+    已插入图像 拷贝 9 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 10 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+台子 | type=LayerSet | visible=true
+  普通 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  破碎 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  移动 | type=LayerSet | visible=true
+    新建组 拷贝 3 | type=LayerSet | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+    新建组 拷贝 2 | type=LayerSet | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+    新建组 | type=LayerSet | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+拉 拷贝 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+拉 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+门 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+栅栏 拷贝 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+栅栏 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+刺 | type=LayerSet | visible=true
+  已插入图像 拷贝 47 | type=ArtLayer | visible=true
+  已插入图像 拷贝 49 | type=ArtLayer | visible=true
+  已插入图像 拷贝 48 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+图层 3 | type=ArtLayer | visible=true
+猫 | type=ArtLayer | visible=true
+背景 | type=ArtLayer | visible=true
+
+=== 霍里.psd ===
+图层 5 | type=ArtLayer | visible=true
+钥匙 | type=ArtLayer | visible=true
+背包 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 3 | type=ArtLayer | visible=true
+san | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 2 | type=ArtLayer | visible=true
+人物占位格60*80 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+平台 | type=LayerSet | visible=true
+  移动平台1 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  破碎平台 | type=LayerSet | visible=true
+    已插入图像 拷贝 91 | type=ArtLayer | visible=true
+    已插入图像 拷贝 89 | type=ArtLayer | visible=true
+    已插入图像 拷贝 95 | type=ArtLayer | visible=true
+    已插入图像 拷贝 94 | type=ArtLayer | visible=true
+    已插入图像 拷贝 93 | type=ArtLayer | visible=true
+    已插入图像 拷贝 92 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+块组 | type=LayerSet | visible=true
+  组 5 | type=LayerSet | visible=true
+    已插入图像 拷贝 63 | type=ArtLayer | visible=true
+    已插入图像 拷贝 66 | type=ArtLayer | visible=true
+    已插入图像 拷贝 65 | type=ArtLayer | visible=true
+    已插入图像 拷贝 79 | type=ArtLayer | visible=true
+    已插入图像 拷贝 78 | type=ArtLayer | visible=true
+    已插入图像 拷贝 88 | type=ArtLayer | visible=true
+    已插入图像 拷贝 85 | type=ArtLayer | visible=true
+    已插入图像 拷贝 86 | type=ArtLayer | visible=true
+    已插入图像 拷贝 84 | type=ArtLayer | visible=true
+    已插入图像 拷贝 83 | type=ArtLayer | visible=true
+    已插入图像 拷贝 82 | type=ArtLayer | visible=true
+    已插入图像 拷贝 81 | type=ArtLayer | visible=true
+    已插入图像 拷贝 77 | type=ArtLayer | visible=true
+    已插入图像 拷贝 76 | type=ArtLayer | visible=true
+    已插入图像 拷贝 75 | type=ArtLayer | visible=true
+    已插入图像 拷贝 74 | type=ArtLayer | visible=true
+    已插入图像 拷贝 73 | type=ArtLayer | visible=true
+    已插入图像 拷贝 72 | type=ArtLayer | visible=true
+    已插入图像 拷贝 71 | type=ArtLayer | visible=true
+    已插入图像 拷贝 70 | type=ArtLayer | visible=true
+    已插入图像 拷贝 69 | type=ArtLayer | visible=true
+    已插入图像 拷贝 68 | type=ArtLayer | visible=true
+    已插入图像 拷贝 64 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 62 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 80 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 87 | type=ArtLayer | visible=true
+    已插入图像 拷贝 62 | type=ArtLayer | visible=true
+    已插入图像 拷贝 90 | type=ArtLayer | visible=true
+    已插入图像 拷贝 67 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 | type=LayerSet | visible=true
+    已插入图像 拷贝 58 | type=ArtLayer | visible=true
+    已插入图像 拷贝 57 | type=ArtLayer | visible=true
+    已插入图像 拷贝 56 | type=ArtLayer | visible=true
+    已插入图像 拷贝 55 | type=ArtLayer | visible=true
+    已插入图像 拷贝 54 | type=ArtLayer | visible=true
+    已插入图像 拷贝 53 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 52 | type=ArtLayer | visible=true
+    已插入图像 拷贝 51 | type=ArtLayer | visible=true
+    已插入图像 拷贝 50 | type=ArtLayer | visible=true
+    已插入图像 拷贝 49 | type=ArtLayer | visible=true
+    已插入图像 拷贝 48 | type=ArtLayer | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 | type=LayerSet | visible=true
+    已插入图像 拷贝 58 | type=ArtLayer | visible=true
+    已插入图像 拷贝 57 | type=ArtLayer | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+  组 3 拷贝 | type=LayerSet | visible=true
+    已插入图像 拷贝 60 | type=ArtLayer | visible=true
+    已插入图像 拷贝 58 | type=ArtLayer | visible=true
+    已插入图像 拷贝 57 | type=ArtLayer | visible=true
+    已插入图像 拷贝 56 | type=ArtLayer | visible=true
+    已插入图像 拷贝 55 | type=ArtLayer | visible=true
+    已插入图像 拷贝 54 | type=ArtLayer | visible=true
+    已插入图像 拷贝 53 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 52 | type=ArtLayer | visible=true
+    已插入图像 拷贝 51 | type=ArtLayer | visible=true
+    已插入图像 拷贝 50 | type=ArtLayer | visible=true
+    已插入图像 拷贝 49 | type=ArtLayer | visible=true
+    已插入图像 拷贝 48 | type=ArtLayer | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 拷贝 61 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 59 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 | type=LayerSet | visible=true
+    已插入图像 拷贝 58 | type=ArtLayer | visible=true
+    已插入图像 拷贝 57 | type=ArtLayer | visible=true
+    已插入图像 拷贝 56 | type=ArtLayer | visible=true
+    已插入图像 拷贝 55 | type=ArtLayer | visible=true
+    已插入图像 拷贝 54 | type=ArtLayer | visible=true
+    已插入图像 拷贝 53 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 52 | type=ArtLayer | visible=true
+    已插入图像 拷贝 51 | type=ArtLayer | visible=true
+    已插入图像 拷贝 50 | type=ArtLayer | visible=true
+    已插入图像 拷贝 49 | type=ArtLayer | visible=true
+    已插入图像 拷贝 48 | type=ArtLayer | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 2 | type=LayerSet | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 16 | type=ArtLayer | visible=true
+    已插入图像 拷贝 40 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 拷贝 19 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 1 | type=LayerSet | visible=true
+    已插入图像 拷贝 12 | type=ArtLayer | visible=true
+    已插入图像 拷贝 11 | type=ArtLayer | visible=true
+    已插入图像 拷贝 10 | type=ArtLayer | visible=true
+    已插入图像 拷贝 9 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 4 | type=ArtLayer | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 2 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+链 | type=LayerSet | visible=true
+  已插入图像 拷贝 101 | type=ArtLayer | visible=true
+  已插入图像 拷贝 100 | type=ArtLayer | visible=true
+  已插入图像 拷贝 99 | type=ArtLayer | visible=true
+  已插入图像 拷贝 98 | type=ArtLayer | visible=true
+  已插入图像 拷贝 103 | type=ArtLayer | visible=true
+  已插入图像 拷贝 102 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+刺 | type=LayerSet | visible=true
+  已插入图像 拷贝 97 | type=ArtLayer | visible=true
+  已插入图像 拷贝 96 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+门 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+图层 4 | type=ArtLayer | visible=true
+图层 1 | type=ArtLayer | visible=true
+
+=== 时差.psd ===
+图层 4 | type=ArtLayer | visible=true
+san | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 1 | type=ArtLayer | visible=true
+人物占位格60*80 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+钥匙 | type=ArtLayer | visible=true
+背包 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 2 | type=ArtLayer | visible=true
+块组 | type=LayerSet | visible=true
+  组 9 | type=LayerSet | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 59 | type=ArtLayer | visible=true
+    已插入图像 拷贝 58 | type=ArtLayer | visible=true
+    已插入图像 拷贝 57 | type=ArtLayer | visible=true
+    已插入图像 拷贝 56 | type=ArtLayer | visible=true
+    已插入图像 拷贝 55 | type=ArtLayer | visible=true
+    已插入图像 拷贝 52 | type=ArtLayer | visible=true
+    已插入图像 拷贝 54 | type=ArtLayer | visible=true
+    已插入图像 拷贝 53 | type=ArtLayer | visible=true
+    已插入图像 拷贝 51 | type=ArtLayer | visible=true
+    已插入图像 拷贝 50 | type=ArtLayer | visible=true
+    已插入图像 拷贝 49 | type=ArtLayer | visible=true
+    已插入图像 拷贝 48 | type=ArtLayer | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 8 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 拷贝 40 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 7 | type=LayerSet | visible=true
+    已插入图像 拷贝 9 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 6 拷贝 | type=LayerSet | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 6 | type=LayerSet | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 5 | type=LayerSet | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 拷贝 19 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 16 | type=ArtLayer | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 12 | type=ArtLayer | visible=true
+    已插入图像 拷贝 65 | type=ArtLayer | visible=true
+    已插入图像 拷贝 64 | type=ArtLayer | visible=true
+    已插入图像 拷贝 11 | type=ArtLayer | visible=true
+    已插入图像 拷贝 66 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 67 | type=ArtLayer | visible=true
+    已插入图像 拷贝 63 | type=ArtLayer | visible=true
+    已插入图像 拷贝 62 | type=ArtLayer | visible=true
+    已插入图像 拷贝 61 | type=ArtLayer | visible=true
+    已插入图像 拷贝 10 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 60 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 2 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 74 | type=ArtLayer | visible=true
+    已插入图像 拷贝 73 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 72 | type=ArtLayer | visible=true
+    已插入图像 拷贝 71 | type=ArtLayer | visible=true
+    已插入图像 拷贝 70 | type=ArtLayer | visible=true
+    已插入图像 拷贝 69 | type=ArtLayer | visible=true
+    已插入图像 拷贝 68 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 4 | type=ArtLayer | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 1 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+    已插入图像 拷贝 2 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+台子 | type=LayerSet | visible=true
+  破碎 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  移动 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  普通 | type=LayerSet | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+拉 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+拉 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+栅栏 拷贝 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+栅栏 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+门 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+刺 | type=LayerSet | visible=true
+  已插入图像 拷贝 75 | type=ArtLayer | visible=true
+  已插入图像 拷贝 76 | type=ArtLayer | visible=true
+  已插入图像 拷贝 77 | type=ArtLayer | visible=true
+  已插入图像 拷贝 78 | type=ArtLayer | visible=true
+  已插入图像 拷贝 79 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+流 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+图层 3 | type=ArtLayer | visible=true
+差 | type=ArtLayer | visible=true
+背景 | type=ArtLayer | visible=true
+
+=== 子龙.psd ===
+图层 4 | type=ArtLayer | visible=true
+san | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 2 | type=ArtLayer | visible=true
+背包 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  图层 1 | type=ArtLayer | visible=true
+人物占位格60*80 | type=ArtLayer | visible=true
+已插入图像 | type=ArtLayer | visible=true
+钥匙 | type=ArtLayer | visible=true
+组块 | type=LayerSet | visible=true
+  组 5 | type=LayerSet | visible=true
+    已插入图像 拷贝 117 | type=ArtLayer | visible=true
+    已插入图像 拷贝 125 | type=ArtLayer | visible=true
+    已插入图像 拷贝 124 | type=ArtLayer | visible=true
+    已插入图像 拷贝 123 | type=ArtLayer | visible=true
+    已插入图像 拷贝 122 | type=ArtLayer | visible=true
+    已插入图像 拷贝 121 | type=ArtLayer | visible=true
+    已插入图像 拷贝 120 | type=ArtLayer | visible=true
+    已插入图像 拷贝 119 | type=ArtLayer | visible=true
+    已插入图像 拷贝 118 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 116 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 115 | type=ArtLayer | visible=true
+    已插入图像 拷贝 114 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 4 | type=LayerSet | visible=true
+    已插入图像 拷贝 92 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 84 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 105 | type=ArtLayer | visible=true
+    已插入图像 拷贝 104 | type=ArtLayer | visible=true
+    已插入图像 拷贝 100 | type=ArtLayer | visible=true
+    已插入图像 拷贝 99 | type=ArtLayer | visible=true
+    已插入图像 拷贝 98 | type=ArtLayer | visible=true
+    已插入图像 拷贝 146 | type=ArtLayer | visible=true
+    已插入图像 拷贝 144 | type=ArtLayer | visible=true
+    已插入图像 拷贝 142 | type=ArtLayer | visible=true
+    已插入图像 拷贝 140 | type=ArtLayer | visible=true
+    已插入图像 拷贝 139 | type=ArtLayer | visible=true
+    已插入图像 拷贝 138 | type=ArtLayer | visible=true
+    已插入图像 拷贝 137 | type=ArtLayer | visible=true
+    已插入图像 拷贝 136 | type=ArtLayer | visible=true
+    已插入图像 拷贝 135 | type=ArtLayer | visible=true
+    已插入图像 拷贝 134 | type=ArtLayer | visible=true
+    已插入图像 拷贝 133 | type=ArtLayer | visible=true
+    已插入图像 拷贝 132 | type=ArtLayer | visible=true
+    已插入图像 拷贝 103 | type=ArtLayer | visible=true
+    已插入图像 拷贝 102 | type=ArtLayer | visible=true
+    已插入图像 拷贝 131 | type=ArtLayer | visible=true
+    已插入图像 拷贝 130 | type=ArtLayer | visible=true
+    已插入图像 拷贝 129 | type=ArtLayer | visible=true
+    已插入图像 拷贝 128 | type=ArtLayer | visible=true
+    已插入图像 拷贝 127 | type=ArtLayer | visible=true
+    已插入图像 拷贝 126 | type=ArtLayer | visible=true
+    已插入图像 拷贝 101 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 88 | type=ArtLayer | visible=true
+    已插入图像 拷贝 97 | type=ArtLayer | visible=true
+    已插入图像 拷贝 96 | type=ArtLayer | visible=true
+    已插入图像 拷贝 95 | type=ArtLayer | visible=true
+    已插入图像 拷贝 94 | type=ArtLayer | visible=true
+    已插入图像 拷贝 93 | type=ArtLayer | visible=true
+    已插入图像 拷贝 91 | type=ArtLayer | visible=true
+    已插入图像 拷贝 86 | type=ArtLayer | visible=true
+    已插入图像 拷贝 85 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 92 | type=ArtLayer | visible=true
+    已插入图像 拷贝 90 | type=ArtLayer | visible=true
+    已插入图像 拷贝 89 | type=ArtLayer | visible=true
+    已插入图像 拷贝 88 | type=ArtLayer | visible=true
+    已插入图像 拷贝 113 | type=ArtLayer | visible=true
+    已插入图像 拷贝 112 | type=ArtLayer | visible=true
+    已插入图像 拷贝 111 | type=ArtLayer | visible=true
+    已插入图像 拷贝 110 | type=ArtLayer | visible=true
+    已插入图像 拷贝 109 | type=ArtLayer | visible=true
+    已插入图像 拷贝 108 | type=ArtLayer | visible=true
+    已插入图像 拷贝 107 | type=ArtLayer | visible=true
+    已插入图像 拷贝 106 | type=ArtLayer | visible=true
+    已插入图像 拷贝 87 | type=ArtLayer | visible=true
+    已插入图像 拷贝 87 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 3 | type=LayerSet | visible=true
+    已插入图像 拷贝 81 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 80 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 83 | type=ArtLayer | visible=true
+    已插入图像 拷贝 82 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 78 | type=ArtLayer | visible=true
+    已插入图像 拷贝 77 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 79 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 2 | type=LayerSet | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 76 | type=ArtLayer | visible=true
+    已插入图像 拷贝 75 | type=ArtLayer | visible=true
+    已插入图像 拷贝 74 | type=ArtLayer | visible=true
+    已插入图像 拷贝 73 | type=ArtLayer | visible=true
+    已插入图像 拷贝 68 | type=ArtLayer | visible=true
+    已插入图像 拷贝 67 | type=ArtLayer | visible=true
+    已插入图像 拷贝 66 | type=ArtLayer | visible=true
+    已插入图像 拷贝 65 | type=ArtLayer | visible=true
+    已插入图像 拷贝 64 | type=ArtLayer | visible=true
+    已插入图像 拷贝 63 | type=ArtLayer | visible=true
+    已插入图像 拷贝 62 | type=ArtLayer | visible=true
+    已插入图像 拷贝 61 | type=ArtLayer | visible=true
+    已插入图像 拷贝 60 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 72 | type=ArtLayer | visible=true
+    已插入图像 拷贝 71 | type=ArtLayer | visible=true
+    已插入图像 拷贝 70 | type=ArtLayer | visible=true
+    已插入图像 拷贝 69 | type=ArtLayer | visible=true
+    已插入图像 拷贝 59 | type=ArtLayer | visible=true
+    已插入图像 拷贝 58 | type=ArtLayer | visible=true
+    已插入图像 拷贝 57 | type=ArtLayer | visible=true
+    已插入图像 拷贝 56 | type=ArtLayer | visible=true
+    已插入图像 拷贝 55 | type=ArtLayer | visible=true
+    已插入图像 拷贝 54 | type=ArtLayer | visible=true
+    已插入图像 拷贝 29 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 28 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  组 1 | type=LayerSet | visible=true
+    已插入图像 拷贝 21 | type=ArtLayer | visible=true
+    已插入图像 拷贝 20 | type=ArtLayer | visible=true
+    已插入图像 拷贝 19 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 53 | type=ArtLayer | visible=true
+    已插入图像 拷贝 52 | type=ArtLayer | visible=true
+    已插入图像 拷贝 51 | type=ArtLayer | visible=true
+    已插入图像 拷贝 50 | type=ArtLayer | visible=true
+    已插入图像 拷贝 49 | type=ArtLayer | visible=true
+    已插入图像 拷贝 48 | type=ArtLayer | visible=true
+    已插入图像 拷贝 47 | type=ArtLayer | visible=true
+    已插入图像 拷贝 46 | type=ArtLayer | visible=true
+    已插入图像 拷贝 45 | type=ArtLayer | visible=true
+    已插入图像 拷贝 44 | type=ArtLayer | visible=true
+    已插入图像 拷贝 43 | type=ArtLayer | visible=true
+    已插入图像 拷贝 41 | type=ArtLayer | visible=true
+    已插入图像 拷贝 40 | type=ArtLayer | visible=true
+    已插入图像 拷贝 39 | type=ArtLayer | visible=true
+    已插入图像 拷贝 38 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 37 | type=ArtLayer | visible=true
+    已插入图像 拷贝 36 | type=ArtLayer | visible=true
+    已插入图像 拷贝 35 | type=ArtLayer | visible=true
+    已插入图像 拷贝 34 | type=ArtLayer | visible=true
+    已插入图像 拷贝 33 | type=ArtLayer | visible=true
+    已插入图像 拷贝 27 | type=ArtLayer | visible=true
+    已插入图像 拷贝 26 | type=ArtLayer | visible=true
+    已插入图像 拷贝 25 | type=ArtLayer | visible=true
+    已插入图像 拷贝 31 | type=ArtLayer | visible=true
+    已插入图像 拷贝 24 | type=ArtLayer | visible=true
+    已插入图像 拷贝 23 | type=ArtLayer | visible=true
+    已插入图像 拷贝 22 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 8 | type=ArtLayer | visible=true
+    已插入图像 拷贝 7 | type=ArtLayer | visible=true
+    已插入图像 拷贝 6 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 拷贝 4 | type=ArtLayer | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+    已插入图像 拷贝 | type=ArtLayer | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 18 | type=ArtLayer | visible=true
+    已插入图像 拷贝 17 | type=ArtLayer | visible=true
+    已插入图像 拷贝 16 | type=ArtLayer | visible=true
+    已插入图像 拷贝 15 | type=ArtLayer | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 拷贝 3 | type=ArtLayer | visible=true
+    已插入图像 拷贝 14 | type=ArtLayer | visible=true
+    已插入图像 拷贝 2 | type=ArtLayer | visible=true
+    已插入图像 拷贝 42 | type=ArtLayer | visible=true
+    已插入图像 拷贝 32 | type=ArtLayer | visible=true
+    已插入图像 拷贝 30 | type=ArtLayer | visible=true
+    已插入图像 拷贝 5 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 拷贝 13 | type=ArtLayer | visible=true
+    已插入图像 拷贝 12 | type=ArtLayer | visible=true
+    已插入图像 拷贝 11 | type=ArtLayer | visible=true
+    已插入图像 拷贝 10 | type=ArtLayer | visible=true
+    已插入图像 拷贝 9 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+    已插入图像 | type=ArtLayer | visible=true
+  平台 | type=LayerSet | visible=true
+    普通 | type=LayerSet | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+    破碎 | type=LayerSet | visible=true
+      已插入图像 拷贝 159 | type=ArtLayer | visible=true
+      已插入图像 拷贝 157 | type=ArtLayer | visible=true
+      已插入图像 拷贝 156 | type=ArtLayer | visible=true
+      已插入图像 拷贝 157 | type=ArtLayer | visible=true
+      已插入图像 拷贝 158 | type=ArtLayer | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+      已插入图像 | type=ArtLayer | visible=true
+刺 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 拷贝 160 | type=ArtLayer | visible=true
+拉 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+栅栏 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+门 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+流 | type=LayerSet | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+  已插入图像 | type=ArtLayer | visible=true
+图层 3 | type=ArtLayer | visible=true
+子龙 | type=ArtLayer | visible=true
+背景 | type=ArtLayer | visible=true
+

@@ -1,0 +1,372 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/三笙.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/san_sheng",
+  "map_path": "assets/images/levels/san_sheng/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        1
+      ],
+      "asset": "assets/images/levels/san_sheng/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "san_sheng_door",
+      "layer_path": [
+        4
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "san_sheng_gate",
+      "layer_path": [
+        5
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "san_sheng_lever",
+      "layer_path": [
+        3
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/lever.png"
+    },
+    {
+      "id": "san_sheng_door_key",
+      "layer_path": [
+        11
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/key.png"
+    },
+    {
+      "id": "san_sheng_spawn",
+      "layer_path": [
+        10
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "san_sheng_collectible",
+      "layer_path": [
+        12
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "san_sheng_fragile_0",
+      "layer_path": [
+        6,
+        0,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_0.png"
+    },
+    {
+      "id": "san_sheng_fragile_1",
+      "layer_path": [
+        6,
+        0,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_1.png"
+    },
+    {
+      "id": "san_sheng_fragile_2",
+      "layer_path": [
+        6,
+        0,
+        2
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_2.png"
+    },
+    {
+      "id": "san_sheng_fragile_3",
+      "layer_path": [
+        6,
+        0,
+        3
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_3.png"
+    },
+    {
+      "id": "san_sheng_fragile_4",
+      "layer_path": [
+        6,
+        0,
+        4
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_4.png"
+    },
+    {
+      "id": "san_sheng_fragile_5",
+      "layer_path": [
+        6,
+        0,
+        5
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_5.png"
+    },
+    {
+      "id": "san_sheng_fragile_6",
+      "layer_path": [
+        6,
+        0,
+        6
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_6.png"
+    },
+    {
+      "id": "san_sheng_fragile_7",
+      "layer_path": [
+        6,
+        0,
+        7
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_7.png"
+    },
+    {
+      "id": "san_sheng_fragile_8",
+      "layer_path": [
+        6,
+        0,
+        8
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_8.png"
+    },
+    {
+      "id": "san_sheng_fragile_9",
+      "layer_path": [
+        6,
+        0,
+        9
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_9.png"
+    },
+    {
+      "id": "san_sheng_fragile_10",
+      "layer_path": [
+        6,
+        0,
+        10
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_10.png"
+    },
+    {
+      "id": "san_sheng_fragile_11",
+      "layer_path": [
+        6,
+        0,
+        11
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_11.png"
+    },
+    {
+      "id": "san_sheng_fragile_12",
+      "layer_path": [
+        6,
+        0,
+        12
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_12.png"
+    },
+    {
+      "id": "san_sheng_fragile_13",
+      "layer_path": [
+        6,
+        0,
+        13
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_13.png"
+    },
+    {
+      "id": "san_sheng_fragile_14",
+      "layer_path": [
+        6,
+        0,
+        14
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_14.png"
+    },
+    {
+      "id": "san_sheng_fragile_15",
+      "layer_path": [
+        6,
+        0,
+        15
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_15.png"
+    },
+    {
+      "id": "san_sheng_fragile_16",
+      "layer_path": [
+        6,
+        0,
+        16
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_16.png"
+    },
+    {
+      "id": "san_sheng_fragile_17",
+      "layer_path": [
+        6,
+        0,
+        17
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_17.png"
+    },
+    {
+      "id": "san_sheng_fragile_18",
+      "layer_path": [
+        6,
+        0,
+        18
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_18.png"
+    },
+    {
+      "id": "san_sheng_fragile_19",
+      "layer_path": [
+        6,
+        0,
+        19
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_19.png"
+    },
+    {
+      "id": "san_sheng_fragile_20",
+      "layer_path": [
+        6,
+        0,
+        20
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_20.png"
+    },
+    {
+      "id": "san_sheng_fragile_21",
+      "layer_path": [
+        6,
+        0,
+        21
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_21.png"
+    },
+    {
+      "id": "san_sheng_fragile_22",
+      "layer_path": [
+        6,
+        0,
+        22
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_22.png"
+    },
+    {
+      "id": "san_sheng_fragile_23",
+      "layer_path": [
+        6,
+        0,
+        23
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/san_sheng/platform_fragile_23.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        2
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        7
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        6,
+        2
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        9
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

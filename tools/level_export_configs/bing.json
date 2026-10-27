@@ -1,0 +1,183 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/冰.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/bing",
+  "map_path": "assets/images/levels/bing/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        2
+      ],
+      "asset": "assets/images/levels/bing/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "bing_gate",
+      "layer_path": [
+        5
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/bing/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "bing_door",
+      "layer_path": [
+        6
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/bing/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "bing_lever",
+      "layer_path": [
+        7
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/bing/lever.png"
+    },
+    {
+      "id": "bing_door_key",
+      "layer_path": [
+        12
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/bing/key.png"
+    },
+    {
+      "id": "bing_spawn",
+      "layer_path": [
+        11
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "bing_collectible",
+      "layer_path": [
+        13
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "bing_rail",
+      "layer_path": [
+        8,
+        0,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "id": "bing_cart",
+      "layer_path": [
+        8,
+        0,
+        1
+      ],
+      "element_type": "moving_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/bing/platform_cart.png"
+    },
+    {
+      "id": "bing_swamp_0",
+      "layer_path": [
+        8,
+        1,
+        0
+      ],
+      "element_type": "swamp_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/bing/platform_swamp_0.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        4
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        9
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        3
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        4
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        5
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        6
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        0,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        10
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

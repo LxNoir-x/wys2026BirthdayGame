@@ -1,0 +1,240 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/萧然.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/xiao_ran",
+  "map_path": "assets/images/levels/xiao_ran/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        2
+      ],
+      "asset": "assets/images/levels/xiao_ran/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "xiao_ran_gate",
+      "layer_path": [
+        4
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "xiao_ran_gate2",
+      "layer_path": [
+        5
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "xiao_ran_door",
+      "layer_path": [
+        6
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "xiao_ran_lever",
+      "layer_path": [
+        7
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/lever.png"
+    },
+    {
+      "id": "xiao_ran_lever2",
+      "layer_path": [
+        8
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/lever.png"
+    },
+    {
+      "id": "xiao_ran_door_key",
+      "layer_path": [
+        13
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/key.png"
+    },
+    {
+      "id": "xiao_ran_spawn",
+      "layer_path": [
+        12
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "xiao_ran_rail_0",
+      "layer_path": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "id": "xiao_ran_cart_0",
+      "layer_path": [
+        9,
+        0,
+        0,
+        1
+      ],
+      "element_type": "moving_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/platform_cart_0.png"
+    },
+    {
+      "id": "xiao_ran_rail_1",
+      "layer_path": [
+        9,
+        0,
+        1,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "id": "xiao_ran_cart_1",
+      "layer_path": [
+        9,
+        0,
+        1,
+        1
+      ],
+      "element_type": "moving_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/platform_cart_1.png"
+    },
+    {
+      "id": "xiao_ran_rail_2",
+      "layer_path": [
+        9,
+        0,
+        2,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "id": "xiao_ran_cart_2",
+      "layer_path": [
+        9,
+        0,
+        2,
+        1
+      ],
+      "element_type": "moving_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/platform_cart_2.png"
+    },
+    {
+      "id": "xiao_ran_fragile_0",
+      "layer_path": [
+        9,
+        1,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/platform_fragile_0.png"
+    },
+    {
+      "id": "xiao_ran_fragile_1",
+      "layer_path": [
+        9,
+        1,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/xiao_ran/platform_fragile_1.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        10
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        9,
+        2
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        9,
+        0,
+        1,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        9,
+        0,
+        2,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        11
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "source_psd": "_materials/files/v4/子龙1.1_v2.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/zi_long",
+  "map_path": "assets/images/levels/zi_long/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        0
+      ],
+      "asset": "assets/images/levels/zi_long/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "zi_long_door",
+      "layer_path": [
+        4
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "zi_long_gate",
+      "layer_path": [
+        5
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "zi_long_lever",
+      "layer_path": [
+        6
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/lever.png"
+    },
+    {
+      "id": "zi_long_door_key",
+      "layer_path": [
+        9
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/key.png"
+    },
+    {
+      "id": "zi_long_spawn",
+      "layer_path": [
+        12
+      ],
+      "element_type": "spawn",
+      "source_psd_rect": [
+        1563,
+        755,
+        60,
+        80
+      ]
+    },
+    {
+      "id": "zi_long_collectible",
+      "layer_path": [
+        10
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "zi_long_fragile_0",
+      "layer_path": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_0.png"
+    },
+    {
+      "id": "zi_long_fragile_1",
+      "layer_path": [
+        8,
+        0,
+        0,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_1.png"
+    },
+    {
+      "id": "zi_long_fragile_2",
+      "layer_path": [
+        8,
+        0,
+        0,
+        2
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_2.png"
+    },
+    {
+      "id": "zi_long_fragile_3",
+      "layer_path": [
+        8,
+        0,
+        0,
+        3
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_3.png"
+    },
+    {
+      "id": "zi_long_fragile_4",
+      "layer_path": [
+        8,
+        0,
+        0,
+        4
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_4.png"
+    },
+    {
+      "id": "zi_long_fragile_5",
+      "layer_path": [
+        8,
+        0,
+        0,
+        5
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_5.png"
+    },
+    {
+      "id": "zi_long_fragile_6",
+      "layer_path": [
+        8,
+        0,
+        0,
+        6
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_6.png"
+    },
+    {
+      "id": "zi_long_fragile_7",
+      "layer_path": [
+        8,
+        0,
+        0,
+        7
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_7.png"
+    },
+    {
+      "id": "zi_long_fragile_8",
+      "layer_path": [
+        8,
+        0,
+        0,
+        8
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_8.png"
+    },
+    {
+      "id": "zi_long_fragile_9",
+      "layer_path": [
+        8,
+        0,
+        0,
+        9
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_9.png"
+    },
+    {
+      "id": "zi_long_fragile_10",
+      "layer_path": [
+        8,
+        0,
+        0,
+        10
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zi_long/platform_fragile_10.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        7
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        8,
+        0,
+        1
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        1
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        2
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        3
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        4
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        5
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        1
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

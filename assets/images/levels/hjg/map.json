@@ -1,0 +1,4726 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/hjg.psd",
+  "source_canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "target_canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "elements": [
+    {
+      "source_layer_indices": [
+        3,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_796d33a65623e6fd.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 1448,
+        "y": 361,
+        "width": 156,
+        "height": 34
+      },
+      "rect": {
+        "x": 965,
+        "y": 241,
+        "width": 104,
+        "height": 22
+      },
+      "layer_path": [
+        "3_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        3,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_94e6819e59298706.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 744,
+        "y": 77,
+        "width": 34,
+        "height": 90
+      },
+      "rect": {
+        "x": 496,
+        "y": 51,
+        "width": 23,
+        "height": 60
+      },
+      "layer_path": [
+        "3_layer",
+        "1_17"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        3,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_97f64b48363433bf.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 802,
+        "y": 180,
+        "width": 317,
+        "height": 34
+      },
+      "rect": {
+        "x": 535,
+        "y": 120,
+        "width": 211,
+        "height": 23
+      },
+      "layer_path": [
+        "3_layer",
+        "2_18"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 776,
+        "y": 896,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 517,
+        "y": 597,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 776,
+        "y": 960,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 517,
+        "y": 640,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 560,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 600,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "3_6"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 640,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "4_7"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 680,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "5_8"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 560,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "6_9"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 600,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "7_10"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 640,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "8_11"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        9
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 680,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "9_12"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        10
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 776,
+        "y": 1020,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 517,
+        "y": 680,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "10_4"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        11
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 896,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 560,
+        "y": 597,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "11_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        12
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 896,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 600,
+        "y": 597,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "12_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        13
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 896,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 640,
+        "y": 597,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "13_2"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        14
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 896,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 680,
+        "y": 597,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "14_3"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        15
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 896,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 720,
+        "y": 597,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "15_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        16
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 960,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 720,
+        "y": 640,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "16_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        17
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 1020,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 720,
+        "y": 680,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_1",
+        "17_5"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_cc9c9de3d68b9948.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 776,
+        "y": 120,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 517,
+        "y": 80,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_99506679c62e2aba.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 776,
+        "y": 60,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 517,
+        "y": 40,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 560,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 600,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "3_6"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 640,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "4_7"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 680,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "5_8"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 560,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "6_9"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 600,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "7_10"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 640,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "8_11"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        9
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 680,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "9_12"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        10
+      ],
+      "asset": "images/levels/hjg/psd_99506679c62e2aba.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 776,
+        "y": 0,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 517,
+        "y": 0,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "10_4"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        11
+      ],
+      "asset": "images/levels/hjg/psd_b42ed5d3e37ae41f.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 560,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "11_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        12
+      ],
+      "asset": "images/levels/hjg/psd_b42ed5d3e37ae41f.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 600,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "12_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        13
+      ],
+      "asset": "images/levels/hjg/psd_b42ed5d3e37ae41f.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 640,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "13_2"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        14
+      ],
+      "asset": "images/levels/hjg/psd_b42ed5d3e37ae41f.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 680,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "14_3"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        15
+      ],
+      "asset": "images/levels/hjg/psd_3a6a6cf296602492.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 120,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 720,
+        "y": 80,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "15_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        16
+      ],
+      "asset": "images/levels/hjg/psd_205c67dab385e137.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 60,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 720,
+        "y": 40,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "16_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        17
+      ],
+      "asset": "images/levels/hjg/psd_205c67dab385e137.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 0,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 720,
+        "y": 0,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_1",
+        "17_5"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 178,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 80,
+        "y": 119,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 242,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 161,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 302,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 80,
+        "y": 201,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 302,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 40,
+        "y": 201,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 242,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 161,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 178,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 40,
+        "y": 119,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 302,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 0,
+        "y": 201,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "6_13"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 242,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 161,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "7_14"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 178,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 0,
+        "y": 119,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_2",
+        "8_15"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 716,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 80,
+        "y": 477,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 780,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 520,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 840,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 80,
+        "y": 560,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 840,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 40,
+        "y": 560,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 716,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 40,
+        "y": 477,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 840,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 0,
+        "y": 560,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "6_13"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "7_14"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 716,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 0,
+        "y": 477,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "8_15"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 88,
+        "y": 474,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 59,
+        "y": 316,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "4_3",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 24,
+        "y": 476,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 16,
+        "y": 317,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "4_3",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 88,
+        "y": 538,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 59,
+        "y": 359,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "4_3",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 24,
+        "y": 538,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 16,
+        "y": 359,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "4_3",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        5,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 691,
+        "y": 474,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 461,
+        "y": 316,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "5_3_3",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        5,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 627,
+        "y": 476,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 418,
+        "y": 317,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "5_3_3",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        5,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 691,
+        "y": 538,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 461,
+        "y": 359,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "5_3_3",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        5,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 627,
+        "y": 538,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 418,
+        "y": 359,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "5_3_3",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        6,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 391,
+        "y": 210,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 261,
+        "y": 140,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "6_3",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        6,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 327,
+        "y": 210,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 218,
+        "y": 140,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "6_3",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        6,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 391,
+        "y": 272,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 261,
+        "y": 181,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "6_3",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        6,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 327,
+        "y": 272,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 218,
+        "y": 181,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "6_3",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        7,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 391,
+        "y": 748,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 261,
+        "y": 499,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "7_3_2",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        7,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 327,
+        "y": 748,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 218,
+        "y": 499,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "7_3_2",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        7,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 391,
+        "y": 810,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 261,
+        "y": 540,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "7_3_2",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        7,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 327,
+        "y": 810,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 218,
+        "y": 540,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "7_3_2",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 421,
+        "y": 437,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 281,
+        "y": 291,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 421,
+        "y": 501,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 281,
+        "y": 334,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 421,
+        "y": 561,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 281,
+        "y": 374,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 361,
+        "y": 561,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 241,
+        "y": 374,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 361,
+        "y": 501,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 241,
+        "y": 334,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 297,
+        "y": 561,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 198,
+        "y": 374,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 297,
+        "y": 501,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 198,
+        "y": 334,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 297,
+        "y": 437,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 198,
+        "y": 291,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        8,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 361,
+        "y": 437,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 241,
+        "y": 291,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "8_4",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 721,
+        "y": 178,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 481,
+        "y": 119,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 721,
+        "y": 242,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 481,
+        "y": 161,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 721,
+        "y": 302,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 481,
+        "y": 201,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 661,
+        "y": 302,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 441,
+        "y": 201,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 661,
+        "y": 242,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 441,
+        "y": 161,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 597,
+        "y": 302,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 398,
+        "y": 201,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 597,
+        "y": 242,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 398,
+        "y": 161,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 597,
+        "y": 178,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 398,
+        "y": 119,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        9,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 661,
+        "y": 178,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 441,
+        "y": 119,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "9_4",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 721,
+        "y": 716,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 481,
+        "y": 477,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 721,
+        "y": 780,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 481,
+        "y": 520,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 721,
+        "y": 840,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 481,
+        "y": 560,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 661,
+        "y": 840,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 441,
+        "y": 560,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 661,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 441,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 597,
+        "y": 840,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 398,
+        "y": 560,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 597,
+        "y": 780,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 398,
+        "y": 520,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 597,
+        "y": 716,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 398,
+        "y": 477,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        10,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 661,
+        "y": 716,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 441,
+        "y": 477,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "10_4_2",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 717,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 841,
+        "y": 478,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 781,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 841,
+        "y": 521,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 841,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 841,
+        "y": 561,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 841,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 801,
+        "y": 561,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 781,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 801,
+        "y": 521,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 841,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 758,
+        "y": 561,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 781,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 758,
+        "y": 521,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 717,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 758,
+        "y": 478,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        11,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 717,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 801,
+        "y": 478,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "11_4_3",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_407e45cdd9e9373c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1557,
+        "y": 717,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 1038,
+        "y": 478,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_a5465448ba63835b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1557,
+        "y": 781,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 1038,
+        "y": 521,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_7ac38912e66c7367.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1557,
+        "y": 841,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 1038,
+        "y": 561,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_073645b3e11a8e5a.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1497,
+        "y": 841,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 998,
+        "y": 561,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1497,
+        "y": 781,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 998,
+        "y": 521,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_a786c674f1b151ad.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1433,
+        "y": 841,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 955,
+        "y": 561,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_59beaf0d3d4a9f2c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1433,
+        "y": 781,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 955,
+        "y": 521,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_726a585adf1e141d.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1433,
+        "y": 717,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 955,
+        "y": 478,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        12,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_d660225140e974dc.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1497,
+        "y": 717,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 998,
+        "y": 478,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "12_4_7",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 437,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 841,
+        "y": 291,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 501,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 841,
+        "y": 334,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 561,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 841,
+        "y": 374,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 561,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 801,
+        "y": 374,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 501,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 801,
+        "y": 334,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 561,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 758,
+        "y": 374,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 501,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 758,
+        "y": 334,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 437,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 758,
+        "y": 291,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        13,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 437,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 801,
+        "y": 291,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "13_4_4",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 176,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 841,
+        "y": 117,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 240,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 841,
+        "y": 160,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1261,
+        "y": 300,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 841,
+        "y": 200,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 801,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 801,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 300,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 758,
+        "y": 200,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 240,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 758,
+        "y": 160,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_044504c3657a93ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1137,
+        "y": 176,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 758,
+        "y": 117,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        14,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1201,
+        "y": 176,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 801,
+        "y": 117,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "14_4_5",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_407e45cdd9e9373c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1557,
+        "y": 176,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 1038,
+        "y": 117,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_a5465448ba63835b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1557,
+        "y": 240,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 1038,
+        "y": 160,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        2
+      ],
+      "asset": "images/levels/hjg/psd_7ac38912e66c7367.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1557,
+        "y": 300,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 1038,
+        "y": 200,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        3
+      ],
+      "asset": "images/levels/hjg/psd_073645b3e11a8e5a.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1497,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 998,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        4
+      ],
+      "asset": "images/levels/hjg/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1497,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 998,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        5
+      ],
+      "asset": "images/levels/hjg/psd_a786c674f1b151ad.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1433,
+        "y": 300,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 955,
+        "y": 200,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        6
+      ],
+      "asset": "images/levels/hjg/psd_59beaf0d3d4a9f2c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1433,
+        "y": 240,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 955,
+        "y": 160,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        7
+      ],
+      "asset": "images/levels/hjg/psd_726a585adf1e141d.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1433,
+        "y": 176,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 955,
+        "y": 117,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        15,
+        8
+      ],
+      "asset": "images/levels/hjg/psd_d660225140e974dc.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1497,
+        "y": 176,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 998,
+        "y": 117,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "15_4_6",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        10
+      ],
+      "asset": "images/levels/hjg/psd_2d15823b92e68e46.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "layer_path": [
+        "10_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        4,
+        0
+      ],
+      "asset": "images/levels/hjg/psd_cce5692b96b53bef.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 0,
+        "y": 991,
+        "width": 1920,
+        "height": 968
+      },
+      "rect": {
+        "x": 0,
+        "y": 661,
+        "width": 1280,
+        "height": 645
+      },
+      "layer_path": [
+        "4_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        4,
+        1
+      ],
+      "asset": "images/levels/hjg/psd_7f97e0720546f15e.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 51,
+        "y": 1074,
+        "width": 1842,
+        "height": 847
+      },
+      "rect": {
+        "x": 34,
+        "y": 716,
+        "width": 1228,
+        "height": 565
+      },
+      "layer_path": [
+        "4_layer",
+        "1_layer"
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "id": "hjg_gate",
+      "element_type": "gate",
+      "source_layer_indices": [
+        5
+      ],
+      "source_psd_rect": {
+        "x": 1223,
+        "y": -9,
+        "width": 99,
+        "height": 190
+      },
+      "rect": {
+        "x": 815,
+        "y": -6,
+        "width": 66,
+        "height": 127
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/hjg/fence_gate.png",
+      "layer_path": [
+        "5_layer"
+      ]
+    },
+    {
+      "id": "hjg_lever",
+      "element_type": "lever",
+      "source_layer_indices": [
+        6
+      ],
+      "source_psd_rect": {
+        "x": 658,
+        "y": 122,
+        "width": 67,
+        "height": 74
+      },
+      "rect": {
+        "x": 439,
+        "y": 81,
+        "width": 44,
+        "height": 50
+      },
+      "asset": "images/levels/hjg/lever.png",
+      "layer_path": [
+        "6_layer"
+      ]
+    },
+    {
+      "id": "hjg_door",
+      "element_type": "door",
+      "source_layer_indices": [
+        7
+      ],
+      "source_psd_rect": {
+        "x": 925,
+        "y": 800,
+        "width": 89,
+        "height": 99
+      },
+      "rect": {
+        "x": 617,
+        "y": 533,
+        "width": 59,
+        "height": 66
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/hjg/door.png",
+      "layer_path": [
+        "7_layer"
+      ]
+    },
+    {
+      "id": "hjg_door_key",
+      "element_type": "key",
+      "source_layer_indices": [
+        12
+      ],
+      "source_psd_rect": {
+        "x": 1169,
+        "y": 86,
+        "width": 30,
+        "height": 54
+      },
+      "rect": {
+        "x": 779,
+        "y": 57,
+        "width": 20,
+        "height": 36
+      },
+      "asset": "images/levels/hjg/key.png",
+      "layer_path": [
+        "12_layer"
+      ]
+    },
+    {
+      "id": "hjg_spawn",
+      "element_type": "spawn",
+      "source_layer_indices": [
+        11
+      ],
+      "source_psd_rect": {
+        "x": 363,
+        "y": 357,
+        "width": 60,
+        "height": 80
+      },
+      "rect": {
+        "x": 242,
+        "y": 238,
+        "width": 40,
+        "height": 53
+      },
+      "layer_path": [
+        "11_60_80"
+      ]
+    },
+    {
+      "id": "hjg_collectible",
+      "element_type": "collectible",
+      "source_layer_indices": [
+        13
+      ],
+      "source_psd_rect": {
+        "x": 1514,
+        "y": 495,
+        "width": 25,
+        "height": 57
+      },
+      "rect": {
+        "x": 1009,
+        "y": 330,
+        "width": 17,
+        "height": 38
+      },
+      "layer_path": [
+        "13_box-export"
+      ]
+    },
+    {
+      "id": "hjg_fragile_0",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        0
+      ],
+      "source_psd_rect": {
+        "x": 1744,
+        "y": 394,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 1163,
+        "y": 263,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/hjg/platform_fragile_0.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "id": "hjg_fragile_1",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        1
+      ],
+      "source_psd_rect": {
+        "x": 1716,
+        "y": 780,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 1144,
+        "y": 520,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/hjg/platform_fragile_1.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "1_16"
+      ]
+    },
+    {
+      "id": "hjg_fragile_2",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        2
+      ],
+      "source_psd_rect": {
+        "x": 1351,
+        "y": 780,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 901,
+        "y": 520,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/hjg/platform_fragile_2.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "2_16"
+      ]
+    },
+    {
+      "id": "hjg_fragile_3",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        3
+      ],
+      "source_psd_rect": {
+        "x": 1351,
+        "y": 242,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 901,
+        "y": 161,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/hjg/platform_fragile_3.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "3_21"
+      ]
+    },
+    {
+      "id": "hjg_fragile_4",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        4
+      ],
+      "source_psd_rect": {
+        "x": 1662,
+        "y": 567,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 1108,
+        "y": 378,
+        "width": 37,
+        "height": 48
+      },
+      "asset": "images/levels/hjg/platform_fragile_4.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "4_layer"
+      ]
+    },
+    {
+      "id": "hjg_fragile_5",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        5
+      ],
+      "source_psd_rect": {
+        "x": 1664,
+        "y": 244,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 1109,
+        "y": 163,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/hjg/platform_fragile_5.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "5_layer"
+      ]
+    },
+    {
+      "id": "hjg_fragile_6",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        6
+      ],
+      "source_psd_rect": {
+        "x": 1351,
+        "y": 495,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 901,
+        "y": 330,
+        "width": 37,
+        "height": 48
+      },
+      "asset": "images/levels/hjg/platform_fragile_6.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "6_22"
+      ]
+    },
+    {
+      "id": "hjg_fragile_7",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        7
+      ],
+      "source_psd_rect": {
+        "x": 517,
+        "y": 333,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 345,
+        "y": 222,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/hjg/platform_fragile_7.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "7_layer"
+      ]
+    },
+    {
+      "id": "hjg_fragile_8",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        8
+      ],
+      "source_psd_rect": {
+        "x": 208,
+        "y": 336,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 139,
+        "y": 224,
+        "width": 37,
+        "height": 48
+      },
+      "asset": "images/levels/hjg/platform_fragile_8.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "8_layer"
+      ]
+    },
+    {
+      "id": "hjg_fragile_9",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        9
+      ],
+      "source_psd_rect": {
+        "x": 517,
+        "y": 749,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 345,
+        "y": 499,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/hjg/platform_fragile_9.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "9_19"
+      ]
+    },
+    {
+      "id": "hjg_fragile_10",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        8,
+        0,
+        10
+      ],
+      "source_psd_rect": {
+        "x": 208,
+        "y": 752,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 139,
+        "y": 501,
+        "width": 37,
+        "height": 48
+      },
+      "asset": "images/levels/hjg/platform_fragile_10.png",
+      "layer_path": [
+        "8_layer",
+        "0_layer",
+        "10_20"
+      ]
+    }
+  ]
+}

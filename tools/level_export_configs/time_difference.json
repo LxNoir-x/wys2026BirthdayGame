@@ -1,0 +1,197 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/时差.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/time_difference",
+  "map_path": "assets/images/levels/time_difference/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        2
+      ],
+      "asset": "assets/images/levels/time_difference/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "time_difference_door",
+      "layer_path": [
+        5
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "time_difference_gate",
+      "layer_path": [
+        6
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "time_difference_gate2",
+      "layer_path": [
+        7
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "time_difference_lever",
+      "layer_path": [
+        8
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/lever.png"
+    },
+    {
+      "id": "time_difference_lever2",
+      "layer_path": [
+        9
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/lever.png"
+    },
+    {
+      "id": "time_difference_door_key",
+      "layer_path": [
+        13
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/key.png"
+    },
+    {
+      "id": "time_difference_spawn",
+      "layer_path": [
+        16
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "time_difference_collectible",
+      "layer_path": [
+        14
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "time_difference_rail",
+      "layer_path": [
+        10,
+        1,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "id": "time_difference_cart",
+      "layer_path": [
+        10,
+        1,
+        1
+      ],
+      "element_type": "moving_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/platform_cart.png"
+    },
+    {
+      "id": "time_difference_fragile_0",
+      "layer_path": [
+        10,
+        2,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/platform_fragile_0.png"
+    },
+    {
+      "id": "time_difference_fragile_1",
+      "layer_path": [
+        10,
+        2,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/platform_fragile_1.png"
+    },
+    {
+      "id": "time_difference_fragile_2",
+      "layer_path": [
+        10,
+        2,
+        2
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/time_difference/platform_fragile_2.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        4
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        11
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        10,
+        0
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        10,
+        1,
+        0
+      ],
+      "element_type": "rail",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        15
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

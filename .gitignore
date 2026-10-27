@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 本地运行存档（正常情况下位于用户数据目录）
+save_data/
+
+# 开发辅助技能包配置
+.trae/

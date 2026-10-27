@@ -1,0 +1,631 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/流星飞.psd",
+  "source_canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "target_canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "elements": [
+    {
+      "source_layer_indices": [
+        2,
+        4,
+        0
+      ],
+      "asset": "images/levels/meteor/psd_a8952b7d6c87bae4.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 862,
+        "y": 416,
+        "width": 188,
+        "height": 34
+      },
+      "rect": {
+        "x": 575,
+        "y": 277,
+        "width": 125,
+        "height": 23
+      },
+      "layer_path": [
+        "2_layer",
+        "4_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        4,
+        1
+      ],
+      "asset": "images/levels/meteor/psd_6fac870e6cad8066.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 917,
+        "y": 44,
+        "width": 90,
+        "height": 34
+      },
+      "rect": {
+        "x": 611,
+        "y": 29,
+        "width": 60,
+        "height": 23
+      },
+      "layer_path": [
+        "2_layer",
+        "4_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        4,
+        2
+      ],
+      "asset": "images/levels/meteor/psd_f41b3200df85b3bb.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 1630,
+        "y": 178,
+        "width": 188,
+        "height": 34
+      },
+      "rect": {
+        "x": 1087,
+        "y": 119,
+        "width": 125,
+        "height": 22
+      },
+      "layer_path": [
+        "2_layer",
+        "4_layer",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        5,
+        0
+      ],
+      "asset": "images/levels/meteor/psd_f47229acda90d3b7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 612,
+        "y": 0,
+        "width": 688,
+        "height": 749
+      },
+      "rect": {
+        "x": 408,
+        "y": 0,
+        "width": 459,
+        "height": 499
+      },
+      "layer_path": [
+        "2_layer",
+        "5_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        5,
+        1
+      ],
+      "asset": "images/levels/meteor/psd_752859562e43bab1.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 29,
+        "y": 322,
+        "width": 243,
+        "height": 487
+      },
+      "rect": {
+        "x": 19,
+        "y": 215,
+        "width": 162,
+        "height": 324
+      },
+      "layer_path": [
+        "2_layer",
+        "5_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        5,
+        2
+      ],
+      "asset": "images/levels/meteor/psd_2b45e71d690fc403.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1584,
+        "y": 0,
+        "width": 304,
+        "height": 184
+      },
+      "rect": {
+        "x": 1056,
+        "y": 0,
+        "width": 203,
+        "height": 123
+      },
+      "layer_path": [
+        "2_layer",
+        "5_layer",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        5,
+        3
+      ],
+      "asset": "images/levels/meteor/psd_3ca646cc4203a9e1.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 432,
+        "y": 563,
+        "width": 189,
+        "height": 187
+      },
+      "rect": {
+        "x": 288,
+        "y": 375,
+        "width": 126,
+        "height": 125
+      },
+      "layer_path": [
+        "2_layer",
+        "5_layer",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        5,
+        4
+      ],
+      "asset": "images/levels/meteor/psd_1444793c3cfce191.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1513,
+        "y": 387,
+        "width": 367,
+        "height": 662
+      },
+      "rect": {
+        "x": 1009,
+        "y": 258,
+        "width": 244,
+        "height": 441
+      },
+      "layer_path": [
+        "2_layer",
+        "5_layer",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        6
+      ],
+      "asset": "images/levels/meteor/psd_a67b7875fd1b5abe.png",
+      "element_type": "terrain_platform",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1353,
+        "y": 345,
+        "width": 178,
+        "height": 400
+      },
+      "rect": {
+        "x": 902,
+        "y": 230,
+        "width": 119,
+        "height": 267
+      },
+      "layer_path": [
+        "2_layer",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        7
+      ],
+      "asset": "images/levels/meteor/psd_f2d64f6aa385356a.png",
+      "element_type": "terrain_platform",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1162,
+        "y": 874,
+        "width": 274,
+        "height": 196
+      },
+      "rect": {
+        "x": 775,
+        "y": 583,
+        "width": 182,
+        "height": 130
+      },
+      "layer_path": [
+        "2_layer",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        10
+      ],
+      "asset": "images/levels/meteor/psd_2127a70dd21fbd81.png",
+      "element_type": "terrain_platform",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 628,
+        "y": 883,
+        "width": 448,
+        "height": 170
+      },
+      "rect": {
+        "x": 419,
+        "y": 589,
+        "width": 298,
+        "height": 113
+      },
+      "layer_path": [
+        "2_layer",
+        "10_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        11
+      ],
+      "asset": "images/levels/meteor/psd_44edb63ced91c580.png",
+      "element_type": "terrain_platform",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 985,
+        "width": 1920,
+        "height": 95
+      },
+      "rect": {
+        "x": 0,
+        "y": 657,
+        "width": 1280,
+        "height": 63
+      },
+      "layer_path": [
+        "2_layer",
+        "11_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        8,
+        0
+      ],
+      "asset": "images/levels/meteor/psd_a2742217e4812a25.png",
+      "element_type": "rail",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 0,
+        "y": 892,
+        "width": 572,
+        "height": 24
+      },
+      "rect": {
+        "x": 0,
+        "y": 595,
+        "width": 381,
+        "height": 16
+      },
+      "layer_path": [
+        "2_layer",
+        "8_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        3
+      ],
+      "asset": "images/levels/meteor/psd_81980cd21ff06b3b.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 71,
+        "y": 0,
+        "width": 1015,
+        "height": 482
+      },
+      "rect": {
+        "x": 47,
+        "y": 0,
+        "width": 677,
+        "height": 321
+      },
+      "layer_path": [
+        "2_layer",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        3
+      ],
+      "asset": "images/levels/meteor/psd_b9c8bd7fe2c88f1e.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "layer_path": [
+        "3_layer"
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "id": "meteor_gate",
+      "element_type": "gate",
+      "source_layer_indices": [
+        2,
+        2
+      ],
+      "source_psd_rect": {
+        "x": 1185,
+        "y": 203,
+        "width": 99,
+        "height": 190
+      },
+      "rect": {
+        "x": 790,
+        "y": 135,
+        "width": 66,
+        "height": 127
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/meteor/fence_gate.png",
+      "layer_path": [
+        "2_layer",
+        "2_layer"
+      ]
+    },
+    {
+      "id": "meteor_door",
+      "element_type": "door",
+      "source_layer_indices": [
+        2,
+        9
+      ],
+      "source_psd_rect": {
+        "x": 807,
+        "y": 789,
+        "width": 89,
+        "height": 99
+      },
+      "rect": {
+        "x": 538,
+        "y": 526,
+        "width": 59,
+        "height": 66
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/meteor/door.png",
+      "layer_path": [
+        "2_layer",
+        "9_layer"
+      ]
+    },
+    {
+      "id": "meteor_lever",
+      "element_type": "lever",
+      "source_layer_indices": [
+        2,
+        12
+      ],
+      "source_psd_rect": {
+        "x": 1688,
+        "y": 333,
+        "width": 67,
+        "height": 74
+      },
+      "rect": {
+        "x": 1125,
+        "y": 222,
+        "width": 45,
+        "height": 49
+      },
+      "asset": "images/levels/meteor/lever.png",
+      "layer_path": [
+        "2_layer",
+        "12_layer"
+      ]
+    },
+    {
+      "id": "meteor_door_key",
+      "element_type": "key",
+      "source_layer_indices": [
+        5
+      ],
+      "source_psd_rect": {
+        "x": 945,
+        "y": 333,
+        "width": 30,
+        "height": 54
+      },
+      "rect": {
+        "x": 630,
+        "y": 222,
+        "width": 20,
+        "height": 36
+      },
+      "asset": "images/levels/meteor/key.png",
+      "layer_path": [
+        "5_layer"
+      ]
+    },
+    {
+      "id": "meteor_spawn",
+      "element_type": "spawn",
+      "source_layer_indices": [
+        4
+      ],
+      "source_psd_rect": {
+        "x": 123,
+        "y": 220,
+        "width": 60,
+        "height": 80
+      },
+      "rect": {
+        "x": 82,
+        "y": 147,
+        "width": 40,
+        "height": 53
+      },
+      "layer_path": [
+        "4_60_80"
+      ]
+    },
+    {
+      "id": "meteor_collectible",
+      "element_type": "collectible",
+      "source_layer_indices": [
+        6
+      ],
+      "source_psd_rect": {
+        "x": 512,
+        "y": 481,
+        "width": 25,
+        "height": 57
+      },
+      "rect": {
+        "x": 341,
+        "y": 321,
+        "width": 17,
+        "height": 38
+      },
+      "layer_path": [
+        "6_box-export"
+      ]
+    },
+    {
+      "id": "meteor_rail",
+      "element_type": "rail",
+      "source_layer_indices": [
+        2,
+        8,
+        0
+      ],
+      "source_psd_rect": {
+        "x": 0,
+        "y": 892,
+        "width": 572,
+        "height": 24
+      },
+      "rect": {
+        "x": 0,
+        "y": 595,
+        "width": 381,
+        "height": 16
+      },
+      "layer_path": [
+        "2_layer",
+        "8_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "id": "meteor_cart",
+      "element_type": "moving_platform",
+      "source_layer_indices": [
+        2,
+        8,
+        1
+      ],
+      "source_psd_rect": {
+        "x": 330,
+        "y": 839,
+        "width": 210,
+        "height": 125
+      },
+      "rect": {
+        "x": 220,
+        "y": 559,
+        "width": 140,
+        "height": 84
+      },
+      "asset": "images/levels/meteor/platform_cart.png",
+      "layer_path": [
+        "2_layer",
+        "8_layer",
+        "1_layer"
+      ]
+    }
+  ]
+}

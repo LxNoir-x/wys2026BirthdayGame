@@ -1,0 +1,238 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/粽子.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/zong_zi",
+  "map_path": "assets/images/levels/zong_zi/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        2
+      ],
+      "asset": "assets/images/levels/zong_zi/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "zong_zi_gate",
+      "layer_path": [
+        5
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "zong_zi_door",
+      "layer_path": [
+        6
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "zong_zi_lever",
+      "layer_path": [
+        7
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/lever.png"
+    },
+    {
+      "id": "zong_zi_door_key",
+      "layer_path": [
+        13
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/key.png"
+    },
+    {
+      "id": "zong_zi_spawn",
+      "layer_path": [
+        12
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "zong_zi_collectible",
+      "layer_path": [
+        14
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "zong_zi_ice_0",
+      "layer_path": [
+        8,
+        1,
+        0
+      ],
+      "element_type": "ice_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_ice_0.png"
+    },
+    {
+      "id": "zong_zi_ice_1",
+      "layer_path": [
+        8,
+        1,
+        1
+      ],
+      "element_type": "ice_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_ice_1.png"
+    },
+    {
+      "id": "zong_zi_fragile_0",
+      "layer_path": [
+        8,
+        0,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_0.png"
+    },
+    {
+      "id": "zong_zi_fragile_1",
+      "layer_path": [
+        8,
+        0,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_1.png"
+    },
+    {
+      "id": "zong_zi_fragile_2",
+      "layer_path": [
+        8,
+        0,
+        2
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_2.png"
+    },
+    {
+      "id": "zong_zi_fragile_3",
+      "layer_path": [
+        8,
+        0,
+        3
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_3.png"
+    },
+    {
+      "id": "zong_zi_fragile_4",
+      "layer_path": [
+        8,
+        0,
+        4
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_4.png"
+    },
+    {
+      "id": "zong_zi_fragile_5",
+      "layer_path": [
+        8,
+        0,
+        5
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_5.png"
+    },
+    {
+      "id": "zong_zi_fragile_6",
+      "layer_path": [
+        8,
+        0,
+        6
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_6.png"
+    },
+    {
+      "id": "zong_zi_fragile_7",
+      "layer_path": [
+        8,
+        0,
+        7
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_7.png"
+    },
+    {
+      "id": "zong_zi_fragile_8",
+      "layer_path": [
+        8,
+        0,
+        8
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_8.png"
+    },
+    {
+      "id": "zong_zi_fragile_9",
+      "layer_path": [
+        8,
+        0,
+        9
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/zong_zi/platform_fragile_9.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        4
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        9
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        11
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

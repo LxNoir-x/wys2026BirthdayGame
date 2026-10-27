@@ -1,0 +1,264 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/emr.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/emr",
+  "map_path": "assets/images/levels/emr/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        2
+      ],
+      "asset": "assets/images/levels/emr/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "emr_gate",
+      "layer_path": [
+        4
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "emr_door",
+      "layer_path": [
+        5
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "emr_lever",
+      "layer_path": [
+        6
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/lever.png"
+    },
+    {
+      "id": "emr_door_key",
+      "layer_path": [
+        11
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/key.png"
+    },
+    {
+      "id": "emr_spawn",
+      "layer_path": [
+        10
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "emr_collectible",
+      "layer_path": [
+        12
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "emr_swamp_0",
+      "layer_path": [
+        7,
+        1,
+        0
+      ],
+      "element_type": "swamp_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_swamp_0.png"
+    },
+    {
+      "id": "emr_fragile_0",
+      "layer_path": [
+        7,
+        0,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_0.png"
+    },
+    {
+      "id": "emr_fragile_1",
+      "layer_path": [
+        7,
+        0,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_1.png"
+    },
+    {
+      "id": "emr_fragile_2",
+      "layer_path": [
+        7,
+        0,
+        2
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_2.png"
+    },
+    {
+      "id": "emr_fragile_3",
+      "layer_path": [
+        7,
+        0,
+        3
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_3.png"
+    },
+    {
+      "id": "emr_fragile_4",
+      "layer_path": [
+        7,
+        0,
+        4
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_4.png"
+    },
+    {
+      "id": "emr_fragile_5",
+      "layer_path": [
+        7,
+        0,
+        5
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_5.png"
+    },
+    {
+      "id": "emr_fragile_6",
+      "layer_path": [
+        7,
+        0,
+        6
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_6.png"
+    },
+    {
+      "id": "emr_fragile_7",
+      "layer_path": [
+        7,
+        0,
+        7
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_7.png"
+    },
+    {
+      "id": "emr_fragile_8",
+      "layer_path": [
+        7,
+        0,
+        8
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_8.png"
+    },
+    {
+      "id": "emr_fragile_9",
+      "layer_path": [
+        7,
+        0,
+        9
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_9.png"
+    },
+    {
+      "id": "emr_fragile_10",
+      "layer_path": [
+        7,
+        0,
+        10
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_10.png"
+    },
+    {
+      "id": "emr_fragile_11",
+      "layer_path": [
+        7,
+        0,
+        11
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_11.png"
+    },
+    {
+      "id": "emr_fragile_12",
+      "layer_path": [
+        7,
+        0,
+        12
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_12.png"
+    },
+    {
+      "id": "emr_fragile_13",
+      "layer_path": [
+        7,
+        0,
+        13
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/emr/platform_fragile_13.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        8
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        9
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

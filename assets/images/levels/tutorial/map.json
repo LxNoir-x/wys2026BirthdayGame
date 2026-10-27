@@ -1,0 +1,6748 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/新手教程.psd",
+  "source_canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "target_canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "elements": [
+    {
+      "source_layer_indices": [
+        5,
+        2
+      ],
+      "asset": "images/levels/tutorial/psd_4ee08c7ca251bc4f.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 1059,
+        "y": 264,
+        "width": 91,
+        "height": 34
+      },
+      "rect": {
+        "x": 706,
+        "y": 176,
+        "width": 61,
+        "height": 23
+      },
+      "layer_path": [
+        "5_layer",
+        "2_142"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        5,
+        3
+      ],
+      "asset": "images/levels/tutorial/psd_4ee08c7ca251bc4f.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 1759,
+        "y": 807,
+        "width": 91,
+        "height": 34
+      },
+      "rect": {
+        "x": 1173,
+        "y": 538,
+        "width": 60,
+        "height": 23
+      },
+      "layer_path": [
+        "5_layer",
+        "3_141"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        5,
+        4
+      ],
+      "asset": "images/levels/tutorial/psd_bd6fa5a3c24c1c85.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 79,
+        "y": 357,
+        "width": 91,
+        "height": 34
+      },
+      "rect": {
+        "x": 53,
+        "y": 238,
+        "width": 60,
+        "height": 23
+      },
+      "layer_path": [
+        "5_layer",
+        "4_140"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        5,
+        5
+      ],
+      "asset": "images/levels/tutorial/psd_2426922323dba9ef.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 683,
+        "y": 310,
+        "width": 34,
+        "height": 91
+      },
+      "rect": {
+        "x": 455,
+        "y": 207,
+        "width": 23,
+        "height": 60
+      },
+      "layer_path": [
+        "5_layer",
+        "5_143"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        0
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 120,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 80,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        1
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 120,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 80,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        2
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 239,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 159,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        3
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 180,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 200,
+        "y": 120,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        4
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 180,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 160,
+        "y": 120,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        5
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 299,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 120,
+        "y": 199,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        6
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 299,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 80,
+        "y": 199,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        7
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 299,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 40,
+        "y": 199,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        8
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 299,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 0,
+        "y": 199,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        9
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 180,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 120,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "9_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        10
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 120,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 80,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "10_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        11
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 120,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 80,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "11_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        12
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "12_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        13
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "13_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        14
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "14_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        15
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "15_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        16
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "16_118"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        17
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "17_119"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        18
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 239,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 159,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "18_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        19
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 239,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 159,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "19_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        20
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 239,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 159,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "20_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        21
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 179,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 119,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "21_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        22
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 179,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 119,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "22_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        23
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 179,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 119,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "23_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        24
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 119,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 79,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "24_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        25
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 119,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 79,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "25_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        26
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 119,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 79,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "26_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        27
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 59,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 39,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "27_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        28
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 59,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 39,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "28_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        29
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 59,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 39,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "29_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        30
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "30_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        31
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "31_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        32
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "32_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        33
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 60,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 320,
+        "y": 40,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "33_51"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        34
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 240,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "34_124"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        35
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 280,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "35_129"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        36
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 0,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 320,
+        "y": 0,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "36_72"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        37
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 60,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 280,
+        "y": 40,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "37_52"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        0,
+        38
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 60,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 240,
+        "y": 40,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "0_layer",
+        "38_53"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        0
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 718,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 0,
+        "y": 479,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        1
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 718,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 40,
+        "y": 479,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        2
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 718,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 80,
+        "y": 479,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        3
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 718,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 120,
+        "y": 479,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        4
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 718,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 160,
+        "y": 479,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        5
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 718,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 160,
+        "y": 479,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "5_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        6
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 240,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "6_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        7
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 280,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        8
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 320,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        9
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 540,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 360,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "9_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        10
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 600,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 400,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "10_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        11
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 660,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 440,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "11_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        12
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 720,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 480,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "12_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        13
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 718,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 200,
+        "y": 479,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "13_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        14
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 780,
+        "y": 837,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 520,
+        "y": 558,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "14_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        15
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 781,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 521,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "15_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        16
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 780,
+        "y": 960,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 520,
+        "y": 640,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "16_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        17
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 780,
+        "y": 1020,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 520,
+        "y": 680,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "17_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        18
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 780,
+        "y": 900,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 520,
+        "y": 600,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "18_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        19
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 720,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 480,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "19_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        20
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 720,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 480,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "20_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        21
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 720,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 480,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "21_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        22
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 660,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 440,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "22_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        23
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 600,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 400,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "23_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        24
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 540,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 360,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "24_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        25
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 320,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "25_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        26
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 280,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "26_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        27
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 240,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "27_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        28
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "28_2"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        29
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "29_3"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        30
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "30_4"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        31
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "31_5"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        32
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "32_6"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        33
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "33_7"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        34
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 660,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 440,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "34_8"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        35
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 600,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 400,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "35_9"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        36
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 540,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 360,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "36_10"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        37
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 320,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "37_11"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        38
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 280,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "38_12"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        39
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 240,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "39_13"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        40
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "40_14"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        41
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "41_15"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        42
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "42_16"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        43
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "43_17"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        44
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "44_18"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        45
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "45_19"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        46
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 660,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 440,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "46_20"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        47
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 600,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 400,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "47_21"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        48
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 540,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 360,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "48_22"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        49
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 320,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "49_23"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        50
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 280,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "50_24"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        51
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 240,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "51_25"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        52
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "52_26"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        53
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "53_27"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        54
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "54_28"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        55
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "55_29"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        56
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "56_30"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        57
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "57_31"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        58
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "58_32"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        59
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "59_33"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        60
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "60_34"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        61
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "61_35"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        62
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "62_36"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        63
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "63_37"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        64
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "64_38"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        65
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "65_39"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        66
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "66_40"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        67
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "67_41"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        1,
+        68
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "1_layer",
+        "68_42"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        0
+      ],
+      "asset": "images/levels/tutorial/psd_cf9782528cf13036.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 560,
+        "y": 293,
+        "width": 63,
+        "height": 63
+      },
+      "rect": {
+        "x": 373,
+        "y": 195,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "0_43"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        1
+      ],
+      "asset": "images/levels/tutorial/psd_cf9782528cf13036.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 681,
+        "y": 413,
+        "width": 63,
+        "height": 63
+      },
+      "rect": {
+        "x": 454,
+        "y": 275,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "1_47"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        2
+      ],
+      "asset": "images/levels/tutorial/psd_cf9782528cf13036.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 680,
+        "y": 173,
+        "width": 63,
+        "height": 63
+      },
+      "rect": {
+        "x": 453,
+        "y": 115,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "2_55"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        3
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 623,
+        "y": 293,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 415,
+        "y": 195,
+        "width": 44,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "3_44"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        4
+      ],
+      "asset": "images/levels/tutorial/psd_cf9782528cf13036.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1041,
+        "y": 293,
+        "width": 63,
+        "height": 63
+      },
+      "rect": {
+        "x": 694,
+        "y": 195,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "4_67"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        5
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1104,
+        "y": 293,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 736,
+        "y": 195,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "5_68"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        6
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1584,
+        "y": 412,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 1056,
+        "y": 275,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "6_81"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        7
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1464,
+        "y": 651,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 976,
+        "y": 434,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "7_97"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        8
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 864,
+        "y": 413,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 576,
+        "y": 275,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "8_50"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        9
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 983,
+        "y": 173,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 655,
+        "y": 115,
+        "width": 44,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "9_61"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        10
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 623,
+        "y": 356,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 415,
+        "y": 237,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "10_45"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        11
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 864,
+        "y": 476,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 576,
+        "y": 317,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "11_51"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        12
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 983,
+        "y": 236,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 655,
+        "y": 157,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "12_66"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        13
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1584,
+        "y": 475,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 1056,
+        "y": 317,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "13_82"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        14
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1464,
+        "y": 774,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 976,
+        "y": 516,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "14_99"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        15
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 559,
+        "y": 356,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 373,
+        "y": 237,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "15_46"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        16
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 680,
+        "y": 476,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 453,
+        "y": 317,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "16_54"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        17
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1040,
+        "y": 475,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 693,
+        "y": 317,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "17_71"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        18
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1160,
+        "y": 714,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 773,
+        "y": 476,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "18_91"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        19
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1400,
+        "y": 774,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 933,
+        "y": 516,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "19_100"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        20
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 679,
+        "y": 236,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 453,
+        "y": 157,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "20_56"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        21
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 744,
+        "y": 413,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 496,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "21_48"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        22
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 743,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 495,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "22_57"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        23
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 803,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 535,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "23_58"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        24
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 863,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 575,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "24_59"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        25
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1164,
+        "y": 412,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 776,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "25_73"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        26
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1224,
+        "y": 412,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 816,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "26_75"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        27
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1284,
+        "y": 651,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 856,
+        "y": 434,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "27_94"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        28
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1344,
+        "y": 651,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 896,
+        "y": 434,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "28_95"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        29
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1404,
+        "y": 651,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 936,
+        "y": 434,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "29_96"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        30
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1284,
+        "y": 412,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 856,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "30_76"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        31
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1344,
+        "y": 412,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 896,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "31_77"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        32
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1404,
+        "y": 412,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 936,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "32_78"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        33
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1464,
+        "y": 412,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 976,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "33_79"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        34
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1524,
+        "y": 412,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 1016,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "34_80"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        35
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 923,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 615,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "35_60"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        36
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 804,
+        "y": 413,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 536,
+        "y": 275,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "36_49"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        37
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 804,
+        "y": 476,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 536,
+        "y": 317,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "37_52"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        38
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 744,
+        "y": 476,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 496,
+        "y": 317,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "38_53"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        39
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1104,
+        "y": 475,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 736,
+        "y": 317,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "39_74"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        40
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1524,
+        "y": 475,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 1016,
+        "y": 317,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "40_83"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        41
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1464,
+        "y": 475,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 976,
+        "y": 317,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "41_84"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        42
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1404,
+        "y": 475,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 936,
+        "y": 317,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "42_85"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        43
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1344,
+        "y": 714,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 896,
+        "y": 476,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "43_101"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        44
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1284,
+        "y": 714,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 856,
+        "y": 476,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "44_102"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        45
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1224,
+        "y": 714,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 816,
+        "y": 476,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "45_103"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        46
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1344,
+        "y": 475,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 896,
+        "y": 317,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "46_86"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        47
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1284,
+        "y": 475,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 856,
+        "y": 317,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "47_87"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        48
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 803,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 535,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "48_62"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        49
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 743,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 495,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "49_63"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        50
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 923,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 615,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "50_64"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        51
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 863,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 575,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "51_65"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        52
+      ],
+      "asset": "images/levels/tutorial/psd_cf9782528cf13036.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1163,
+        "y": 173,
+        "width": 63,
+        "height": 63
+      },
+      "rect": {
+        "x": 775,
+        "y": 115,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "52_104"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        53
+      ],
+      "asset": "images/levels/tutorial/psd_31cdcdfa6832ae98.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1466,
+        "y": 173,
+        "width": 65,
+        "height": 63
+      },
+      "rect": {
+        "x": 977,
+        "y": 115,
+        "width": 44,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "53_105"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        54
+      ],
+      "asset": "images/levels/tutorial/psd_3160be5db50fab79.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1466,
+        "y": 236,
+        "width": 64,
+        "height": 63
+      },
+      "rect": {
+        "x": 977,
+        "y": 157,
+        "width": 43,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "54_106"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        55
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1162,
+        "y": 236,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 775,
+        "y": 157,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "55_107"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        56
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1226,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 817,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "56_108"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        57
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1286,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 857,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "57_109"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        58
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1346,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 897,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "58_110"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        59
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1406,
+        "y": 173,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 937,
+        "y": 115,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "59_111"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        60
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1286,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 857,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "60_112"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        61
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1226,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 817,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "61_113"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        62
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1406,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 937,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "62_114"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        63
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1346,
+        "y": 236,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 897,
+        "y": 157,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "63_115"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        64
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1041,
+        "y": 355,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 694,
+        "y": 237,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "64_69"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        65
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1041,
+        "y": 415,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 694,
+        "y": 277,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "65_70"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        66
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1161,
+        "y": 534,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 774,
+        "y": 356,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "66_88"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        67
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1161,
+        "y": 594,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 774,
+        "y": 396,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "67_89"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        68
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1161,
+        "y": 654,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 774,
+        "y": 436,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "68_90"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        69
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1104,
+        "y": 356,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 736,
+        "y": 237,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "69_72"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        70
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1224,
+        "y": 534,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 816,
+        "y": 356,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "70_92"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        71
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1224,
+        "y": 594,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 816,
+        "y": 396,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "71_93"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        72
+      ],
+      "asset": "images/levels/tutorial/psd_76eb76f8f01998bb.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1464,
+        "y": 714,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 976,
+        "y": 476,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "72_98"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        73
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1104,
+        "y": 416,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 736,
+        "y": 277,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "73_124"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        74
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1164,
+        "y": 475,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 776,
+        "y": 317,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "74_125"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        75
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1224,
+        "y": 475,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 816,
+        "y": 317,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "75_126"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        76
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1224,
+        "y": 654,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 816,
+        "y": 436,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "76_127"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        2,
+        77
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1404,
+        "y": 714,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 936,
+        "y": 476,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "2_1",
+        "77_128"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        0
+      ],
+      "asset": "images/levels/tutorial/psd_c1906cedbb5256dd.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1616,
+        "y": 60,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 1077,
+        "y": 40,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "0_54"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        1
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1617,
+        "y": 0,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 1078,
+        "y": 0,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "1_70"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        2
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1680,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1120,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "2_124"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        3
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1740,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1160,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "3_129"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        4
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1800,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1200,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "4_130"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        5
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1860,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1240,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "5_131"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        6
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1740,
+        "y": 60,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 1160,
+        "y": 40,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "6_52"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        7
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1800,
+        "y": 60,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 1200,
+        "y": 40,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "7_116"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        8
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1860,
+        "y": 60,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 1240,
+        "y": 40,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "8_117"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        3,
+        9
+      ],
+      "asset": "images/levels/tutorial/psd_0b584ef9ded54a58.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1680,
+        "y": 60,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 1120,
+        "y": 40,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "9_layer",
+        "3_2",
+        "9_53"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        0
+      ],
+      "asset": "images/levels/tutorial/psd_cf9782528cf13036.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1737,
+        "y": 837,
+        "width": 63,
+        "height": 63
+      },
+      "rect": {
+        "x": 1158,
+        "y": 558,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "0_47"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        1
+      ],
+      "asset": "images/levels/tutorial/psd_cf9782528cf13036.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1677,
+        "y": 897,
+        "width": 63,
+        "height": 63
+      },
+      "rect": {
+        "x": 1118,
+        "y": 598,
+        "width": 42,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "1_123"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        2
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1800,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 1200,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "2_49"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        3
+      ],
+      "asset": "images/levels/tutorial/psd_2fe82c7c1c003dd7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1860,
+        "y": 837,
+        "width": 60,
+        "height": 63
+      },
+      "rect": {
+        "x": 1240,
+        "y": 558,
+        "width": 40,
+        "height": 42
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "3_120"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        4
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1677,
+        "y": 960,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 1118,
+        "y": 640,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "4_121"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        5
+      ],
+      "asset": "images/levels/tutorial/psd_1da0409c93ef44ca.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1677,
+        "y": 1020,
+        "width": 63,
+        "height": 60
+      },
+      "rect": {
+        "x": 1118,
+        "y": 680,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "5_122"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        6
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1740,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1160,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "6_128"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        7
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1800,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1200,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "7_132"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        8
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1860,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1240,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "8_133"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        9
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1740,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1160,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "9_134"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        10
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1800,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1200,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "10_135"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        11
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1860,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1240,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "11_136"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        12
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1740,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1160,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "12_137"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        13
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1800,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1200,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "13_138"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9,
+        4,
+        14
+      ],
+      "asset": "images/levels/tutorial/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1860,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 1240,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "9_layer",
+        "4_2",
+        "14_139"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        10,
+        2
+      ],
+      "asset": "images/levels/tutorial/psd_fe8bc4c3d428a973.png",
+      "element_type": "terrain_platform",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 713,
+        "y": 661,
+        "width": 274,
+        "height": 196
+      },
+      "rect": {
+        "x": 475,
+        "y": 441,
+        "width": 183,
+        "height": 130
+      },
+      "layer_path": [
+        "10_layer",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        10,
+        0,
+        0
+      ],
+      "asset": "images/levels/tutorial/psd_8906ddf395b42f3d.png",
+      "element_type": "rail",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 1160,
+        "y": 936,
+        "width": 684,
+        "height": 24
+      },
+      "rect": {
+        "x": 773,
+        "y": 624,
+        "width": 456,
+        "height": 16
+      },
+      "layer_path": [
+        "10_layer",
+        "0_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        16
+      ],
+      "asset": "images/levels/tutorial/psd_b9c8bd7fe2c88f1e.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "layer_path": [
+        "16_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        4,
+        0
+      ],
+      "asset": "images/levels/tutorial/psd_cce5692b96b53bef.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 0,
+        "y": 990,
+        "width": 1920,
+        "height": 968
+      },
+      "rect": {
+        "x": 0,
+        "y": 660,
+        "width": 1280,
+        "height": 645
+      },
+      "layer_path": [
+        "4_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        4,
+        1
+      ],
+      "asset": "images/levels/tutorial/psd_7f97e0720546f15e.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 51,
+        "y": 1073,
+        "width": 1842,
+        "height": 847
+      },
+      "rect": {
+        "x": 34,
+        "y": 715,
+        "width": 1228,
+        "height": 565
+      },
+      "layer_path": [
+        "4_layer",
+        "1_layer"
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "id": "tutorial_gate",
+      "element_type": "gate",
+      "source_layer_indices": [
+        6
+      ],
+      "source_psd_rect": {
+        "x": 1420,
+        "y": 471,
+        "width": 99,
+        "height": 190
+      },
+      "rect": {
+        "x": 947,
+        "y": 314,
+        "width": 66,
+        "height": 127
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/tutorial/fence_gate.png",
+      "layer_path": [
+        "6_layer"
+      ]
+    },
+    {
+      "id": "tutorial_gate2",
+      "element_type": "gate",
+      "source_layer_indices": [
+        7
+      ],
+      "source_psd_rect": {
+        "x": 818,
+        "y": 230,
+        "width": 99,
+        "height": 190
+      },
+      "rect": {
+        "x": 545,
+        "y": 153,
+        "width": 66,
+        "height": 127
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/tutorial/fence_gate.png",
+      "layer_path": [
+        "7_layer"
+      ]
+    },
+    {
+      "id": "tutorial_door",
+      "element_type": "door",
+      "source_layer_indices": [
+        8
+      ],
+      "source_psd_rect": {
+        "x": 1311,
+        "y": 556,
+        "width": 89,
+        "height": 99
+      },
+      "rect": {
+        "x": 874,
+        "y": 371,
+        "width": 59,
+        "height": 66
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/tutorial/door.png",
+      "layer_path": [
+        "8_layer"
+      ]
+    },
+    {
+      "id": "tutorial_lever",
+      "element_type": "lever",
+      "source_layer_indices": [
+        12
+      ],
+      "source_psd_rect": {
+        "x": 1208,
+        "y": 357,
+        "width": 67,
+        "height": 74
+      },
+      "rect": {
+        "x": 805,
+        "y": 238,
+        "width": 45,
+        "height": 49
+      },
+      "asset": "images/levels/tutorial/lever.png",
+      "layer_path": [
+        "12_layer"
+      ]
+    },
+    {
+      "id": "tutorial_lever2",
+      "element_type": "lever",
+      "source_layer_indices": [
+        13
+      ],
+      "source_psd_rect": {
+        "x": 1292,
+        "y": 758,
+        "width": 67,
+        "height": 74
+      },
+      "rect": {
+        "x": 861,
+        "y": 505,
+        "width": 45,
+        "height": 50
+      },
+      "asset": "images/levels/tutorial/lever.png",
+      "layer_path": [
+        "13_layer"
+      ]
+    },
+    {
+      "id": "tutorial_door_key",
+      "element_type": "key",
+      "source_layer_indices": [
+        18
+      ],
+      "source_psd_rect": {
+        "x": 739,
+        "y": 333,
+        "width": 30,
+        "height": 54
+      },
+      "rect": {
+        "x": 493,
+        "y": 222,
+        "width": 20,
+        "height": 36
+      },
+      "asset": "images/levels/tutorial/key.png",
+      "layer_path": [
+        "18_layer"
+      ]
+    },
+    {
+      "id": "tutorial_spawn",
+      "element_type": "spawn",
+      "source_layer_indices": [
+        17
+      ],
+      "source_psd_rect": {
+        "x": 85,
+        "y": 624,
+        "width": 60,
+        "height": 80
+      },
+      "rect": {
+        "x": 57,
+        "y": 416,
+        "width": 40,
+        "height": 53
+      },
+      "layer_path": [
+        "17_layer"
+      ]
+    },
+    {
+      "id": "tutorial_collectible",
+      "element_type": "collectible",
+      "source_layer_indices": [
+        19
+      ],
+      "source_psd_rect": {
+        "x": 1092,
+        "y": 116,
+        "width": 25,
+        "height": 57
+      },
+      "rect": {
+        "x": 728,
+        "y": 77,
+        "width": 17,
+        "height": 38
+      },
+      "layer_path": [
+        "19_box-export"
+      ]
+    },
+    {
+      "id": "tutorial_rail",
+      "element_type": "rail",
+      "source_layer_indices": [
+        10,
+        0,
+        0
+      ],
+      "source_psd_rect": {
+        "x": 1160,
+        "y": 936,
+        "width": 684,
+        "height": 24
+      },
+      "rect": {
+        "x": 773,
+        "y": 624,
+        "width": 456,
+        "height": 16
+      },
+      "layer_path": [
+        "10_layer",
+        "0_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "id": "tutorial_cart",
+      "element_type": "moving_platform",
+      "source_layer_indices": [
+        10,
+        0,
+        1
+      ],
+      "source_psd_rect": {
+        "x": 1359,
+        "y": 883,
+        "width": 210,
+        "height": 125
+      },
+      "rect": {
+        "x": 906,
+        "y": 589,
+        "width": 140,
+        "height": 83
+      },
+      "asset": "images/levels/tutorial/platform_cart.png",
+      "layer_path": [
+        "10_layer",
+        "0_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "id": "tutorial_fragile_0",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        10,
+        1,
+        0
+      ],
+      "source_psd_rect": {
+        "x": 1594,
+        "y": 684,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 1063,
+        "y": 456,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/tutorial/platform_fragile_0.png",
+      "layer_path": [
+        "10_layer",
+        "1_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "id": "tutorial_fragile_1",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        10,
+        1,
+        1
+      ],
+      "source_psd_rect": {
+        "x": 990,
+        "y": 475,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 660,
+        "y": 317,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/tutorial/platform_fragile_1.png",
+      "layer_path": [
+        "10_layer",
+        "1_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "id": "tutorial_ice_0",
+      "element_type": "ice_platform",
+      "source_layer_indices": [
+        10,
+        3,
+        0
+      ],
+      "source_psd_rect": {
+        "x": 205,
+        "y": 538,
+        "width": 162,
+        "height": 192
+      },
+      "rect": {
+        "x": 137,
+        "y": 359,
+        "width": 108,
+        "height": 128
+      },
+      "asset": "images/levels/tutorial/platform_ice_0.png",
+      "layer_path": [
+        "10_layer",
+        "3_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "id": "tutorial_swamp_0",
+      "element_type": "swamp_platform",
+      "source_layer_indices": [
+        10,
+        3,
+        1
+      ],
+      "source_psd_rect": {
+        "x": 890,
+        "y": 887,
+        "width": 174,
+        "height": 88
+      },
+      "rect": {
+        "x": 593,
+        "y": 591,
+        "width": 116,
+        "height": 59
+      },
+      "asset": "images/levels/tutorial/platform_swamp_0.png",
+      "layer_path": [
+        "10_layer",
+        "3_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "id": "tutorial_ice_1",
+      "element_type": "ice_platform",
+      "source_layer_indices": [
+        10,
+        3,
+        2
+      ],
+      "source_psd_rect": {
+        "x": 353,
+        "y": 375,
+        "width": 162,
+        "height": 192
+      },
+      "rect": {
+        "x": 235,
+        "y": 250,
+        "width": 108,
+        "height": 128
+      },
+      "asset": "images/levels/tutorial/platform_ice_1.png",
+      "layer_path": [
+        "10_layer",
+        "3_layer",
+        "2_layer"
+      ]
+    }
+  ]
+}

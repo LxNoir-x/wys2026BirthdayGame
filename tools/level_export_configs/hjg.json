@@ -1,0 +1,227 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/hjg.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/hjg",
+  "map_path": "assets/images/levels/hjg/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        2
+      ],
+      "asset": "assets/images/levels/hjg/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "hjg_gate",
+      "layer_path": [
+        5
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "hjg_lever",
+      "layer_path": [
+        6
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/lever.png"
+    },
+    {
+      "id": "hjg_door",
+      "layer_path": [
+        7
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "hjg_door_key",
+      "layer_path": [
+        12
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/key.png"
+    },
+    {
+      "id": "hjg_spawn",
+      "layer_path": [
+        11
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "hjg_collectible",
+      "layer_path": [
+        13
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "hjg_fragile_0",
+      "layer_path": [
+        8,
+        0,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_0.png"
+    },
+    {
+      "id": "hjg_fragile_1",
+      "layer_path": [
+        8,
+        0,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_1.png"
+    },
+    {
+      "id": "hjg_fragile_2",
+      "layer_path": [
+        8,
+        0,
+        2
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_2.png"
+    },
+    {
+      "id": "hjg_fragile_3",
+      "layer_path": [
+        8,
+        0,
+        3
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_3.png"
+    },
+    {
+      "id": "hjg_fragile_4",
+      "layer_path": [
+        8,
+        0,
+        4
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_4.png"
+    },
+    {
+      "id": "hjg_fragile_5",
+      "layer_path": [
+        8,
+        0,
+        5
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_5.png"
+    },
+    {
+      "id": "hjg_fragile_6",
+      "layer_path": [
+        8,
+        0,
+        6
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_6.png"
+    },
+    {
+      "id": "hjg_fragile_7",
+      "layer_path": [
+        8,
+        0,
+        7
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_7.png"
+    },
+    {
+      "id": "hjg_fragile_8",
+      "layer_path": [
+        8,
+        0,
+        8
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_8.png"
+    },
+    {
+      "id": "hjg_fragile_9",
+      "layer_path": [
+        8,
+        0,
+        9
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_9.png"
+    },
+    {
+      "id": "hjg_fragile_10",
+      "layer_path": [
+        8,
+        0,
+        10
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/hjg/platform_fragile_10.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        9
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        10
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        4
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

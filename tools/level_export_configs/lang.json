@@ -1,0 +1,203 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/狼.psd",
+  "asset_root": "assets",
+  "output_dir": "assets/images/levels/lang",
+  "map_path": "assets/images/levels/lang/map.json",
+  "target_canvas": [
+    1280,
+    720
+  ],
+  "asset_exports": [
+    {
+      "layer_path": [
+        2
+      ],
+      "asset": "assets/images/levels/lang/background.png"
+    }
+  ],
+  "layout_exports": [
+    {
+      "id": "lang_gate",
+      "layer_path": [
+        4
+      ],
+      "element_type": "gate",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/fence_gate.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "lang_door",
+      "layer_path": [
+        5
+      ],
+      "element_type": "door",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/door.png",
+      "collision_type": "solid"
+    },
+    {
+      "id": "lang_lever",
+      "layer_path": [
+        6
+      ],
+      "element_type": "lever",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/lever.png"
+    },
+    {
+      "id": "lang_door_key",
+      "layer_path": [
+        12
+      ],
+      "element_type": "key",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/key.png"
+    },
+    {
+      "id": "lang_spawn",
+      "layer_path": [
+        11
+      ],
+      "element_type": "spawn",
+      "trim_transparent": true
+    },
+    {
+      "id": "lang_collectible",
+      "layer_path": [
+        13
+      ],
+      "element_type": "collectible",
+      "trim_transparent": true
+    },
+    {
+      "id": "lang_fragile_0",
+      "layer_path": [
+        8,
+        0,
+        0
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_0.png"
+    },
+    {
+      "id": "lang_fragile_1",
+      "layer_path": [
+        8,
+        0,
+        1
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_1.png"
+    },
+    {
+      "id": "lang_fragile_2",
+      "layer_path": [
+        8,
+        0,
+        2
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_2.png"
+    },
+    {
+      "id": "lang_fragile_3",
+      "layer_path": [
+        8,
+        0,
+        3
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_3.png"
+    },
+    {
+      "id": "lang_fragile_4",
+      "layer_path": [
+        8,
+        0,
+        4
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_4.png"
+    },
+    {
+      "id": "lang_fragile_5",
+      "layer_path": [
+        8,
+        0,
+        5
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_5.png"
+    },
+    {
+      "id": "lang_fragile_6",
+      "layer_path": [
+        8,
+        0,
+        6
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_6.png"
+    },
+    {
+      "id": "lang_fragile_7",
+      "layer_path": [
+        8,
+        0,
+        7
+      ],
+      "element_type": "fragile_platform",
+      "trim_transparent": true,
+      "asset": "assets/images/levels/lang/platform_fragile_7.png"
+    }
+  ],
+  "static_sources": [
+    {
+      "layer_path": [
+        3
+      ],
+      "element_type": "spike",
+      "trim_transparent": true,
+      "collision_type": "hazard"
+    },
+    {
+      "layer_path": [
+        9
+      ],
+      "element_type": "terrain_block",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        8,
+        1
+      ],
+      "element_type": "terrain_platform",
+      "trim_transparent": true,
+      "collision_type": "solid"
+    },
+    {
+      "layer_path": [
+        7
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    },
+    {
+      "layer_path": [
+        10
+      ],
+      "element_type": "decoration",
+      "trim_transparent": true
+    }
+  ]
+}

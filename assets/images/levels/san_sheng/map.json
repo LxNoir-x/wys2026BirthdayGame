@@ -1,0 +1,5694 @@
+{
+  "source_psd": "_materials/files/v2/部分关卡/关卡/关卡源文件/三笙.psd",
+  "source_canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "target_canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "elements": [
+    {
+      "source_layer_indices": [
+        2,
+        0
+      ],
+      "asset": "images/levels/san_sheng/psd_33f4527b128eb183.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 1266,
+        "y": 72,
+        "width": 34,
+        "height": 91
+      },
+      "rect": {
+        "x": 844,
+        "y": 48,
+        "width": 23,
+        "height": 61
+      },
+      "layer_path": [
+        "2_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        2,
+        1
+      ],
+      "asset": "images/levels/san_sheng/psd_e9ebaf80b91f4cc2.png",
+      "element_type": "spike",
+      "collision": {
+        "type": "hazard"
+      },
+      "source_psd_rect": {
+        "x": 788,
+        "y": 626,
+        "width": 90,
+        "height": 34
+      },
+      "rect": {
+        "x": 525,
+        "y": 417,
+        "width": 60,
+        "height": 23
+      },
+      "layer_path": [
+        "2_layer",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        0
+      ],
+      "asset": "images/levels/san_sheng/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 120,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 80,
+        "y": 80,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        1
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 40,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        2
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 60,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 40,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        3
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        4
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 0,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 0,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        5
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "5_2"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        6
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "6_3"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        7
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "7_4"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        0,
+        8
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "0_1",
+        "8_5"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        0
+      ],
+      "asset": "images/levels/san_sheng/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1200,
+        "y": 780,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 800,
+        "y": 520,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        1
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1140,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 760,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        2
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1200,
+        "y": 720,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 800,
+        "y": 480,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        3
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        4
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "4_6"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        5
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "5_62"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        6
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "6_63"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        7
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "7_64"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        8
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 520,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "8_65"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        9
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "9_7"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        10
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 840,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 560,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "10_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        11
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 900,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 600,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "11_66"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        12
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 956,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 120,
+        "y": 637,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "12_13"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        13
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 956,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 160,
+        "y": 637,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "13_68"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        14
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 1016,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 240,
+        "y": 677,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "14_68"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        15
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 1016,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 280,
+        "y": 677,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "15_134"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        16
+      ],
+      "asset": "images/levels/san_sheng/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 1016,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 320,
+        "y": 677,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "16_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        17
+      ],
+      "asset": "images/levels/san_sheng/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 956,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 200,
+        "y": 637,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "17_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        18
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "18_8"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        19
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "19_9"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        20
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 0,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "20_43"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        21
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 840,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 560,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "21_69"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        22
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 900,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 600,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "22_70"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        23
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "23_71"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        24
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 960,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 640,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "24_73"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        25
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 40,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "25_72"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        26
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 80,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "26_75"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        27
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "27_67"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        28
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "28_74"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        29
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 1020,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 680,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "29_76"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        30
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1140,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 760,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "30_9"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        31
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 720,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "31_29"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        32
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 720,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "32_30"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        33
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 680,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "33_31"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        34
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 680,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "34_32"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        35
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 640,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "35_33"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        36
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 640,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "36_34"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        37
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 600,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "37_35"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        38
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 600,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "38_36"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        39
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 560,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "39_37"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        40
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 560,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "40_38"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        41
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 780,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 520,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "41_39"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        42
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 780,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 520,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "42_40"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        43
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 720,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 480,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "43_41"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        44
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 720,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 480,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "44_42"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        45
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 660,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 440,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "45_44"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        46
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 660,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 440,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "46_45"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        47
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 600,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 400,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "47_46"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        48
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 600,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 400,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "48_47"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        49
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 540,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 360,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "49_48"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        50
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 540,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 360,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "50_49"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        51
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 320,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "51_50"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        52
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 320,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "52_51"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        53
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 280,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "53_52"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        54
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 280,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "54_53"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        55
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 240,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "55_54"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        56
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 240,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "56_55"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        57
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 200,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "57_56"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        58
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 200,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "58_57"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        59
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 160,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "59_58"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        60
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 160,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "60_59"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        61
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 780,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 120,
+        "y": 520,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "61_60"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        62
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 720,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 120,
+        "y": 480,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "62_61"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        63
+      ],
+      "asset": "images/levels/san_sheng/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1200,
+        "y": 656,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 800,
+        "y": 437,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "63_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        64
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 0,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 0,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "64_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        65
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 60,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 40,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "65_10"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        66
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 120,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 80,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "66_11"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        67
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 180,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 120,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "67_12"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        68
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 240,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 160,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "68_13"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        69
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 300,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 200,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "69_14"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        70
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 240,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "70_15"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        71
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 420,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 280,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "71_16"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        72
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 480,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 320,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "72_17"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        73
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 540,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 360,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "73_18"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        74
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 600,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 400,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "74_19"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        75
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 660,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 440,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "75_20"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        76
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 720,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 480,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "76_21"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        77
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 780,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 520,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "77_22"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        78
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 840,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 560,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "78_23"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        79
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 600,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "79_24"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        80
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 960,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 640,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "80_25"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        81
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1020,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 680,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "81_26"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        82
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1080,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 720,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "82_27"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        1,
+        83
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1140,
+        "y": 656,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 760,
+        "y": 437,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "1_2",
+        "83_28"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        0
+      ],
+      "asset": "images/levels/san_sheng/psd_e20ab98fdf4ec468.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1384,
+        "y": 300,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 923,
+        "y": 200,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "0_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        1
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 424,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 283,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "1_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        2
+      ],
+      "asset": "images/levels/san_sheng/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 120,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 240,
+        "y": 80,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        3
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1384,
+        "y": 240,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 923,
+        "y": 160,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "3_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        4
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1204,
+        "y": 120,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 803,
+        "y": 80,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "4_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        5
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1204,
+        "y": 60,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 803,
+        "y": 40,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "5_110"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        6
+      ],
+      "asset": "images/levels/san_sheng/psd_4ea9308573907fc8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1204,
+        "y": 0,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 803,
+        "y": 0,
+        "width": 42,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "6_111"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        7
+      ],
+      "asset": "images/levels/san_sheng/psd_122b29ff21a0ae8b.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1384,
+        "y": 176,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 923,
+        "y": 117,
+        "width": 42,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "7_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        8
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1324,
+        "y": 176,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 883,
+        "y": 117,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "8_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        9
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 424,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 283,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "9_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        10
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 484,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 323,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "10_77"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        11
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 484,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 323,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "11_78"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        12
+      ],
+      "asset": "images/levels/san_sheng/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 60,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 240,
+        "y": 40,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "12_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        13
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 424,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 283,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "13_79"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        14
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 484,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 323,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "14_80"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        15
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 544,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 363,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "15_82"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        16
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 544,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 363,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "16_83"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        17
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 604,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 403,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "17_84"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        18
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 604,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 403,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "18_85"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        19
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 544,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 363,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "19_86"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        20
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 604,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 403,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "20_87"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        21
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 664,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 443,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "21_88"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        22
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 664,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 443,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "22_89"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        23
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 664,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 443,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "23_90"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        24
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 724,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 483,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "24_91"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        25
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 724,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 483,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "25_92"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        26
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 724,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 483,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "26_93"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        27
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 784,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 523,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "27_94"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        28
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 784,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 523,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "28_95"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        29
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 784,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 523,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "29_96"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        30
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 844,
+        "y": 120,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 563,
+        "y": 80,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "30_97"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        31
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 844,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 563,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "31_98"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        32
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 904,
+        "y": 120,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 603,
+        "y": 80,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "32_98"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        33
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1204,
+        "y": 180,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 803,
+        "y": 120,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "33_98"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        34
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1204,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 803,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "34_109"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        35
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1324,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 883,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "35_98"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        36
+      ],
+      "asset": "images/levels/san_sheng/psd_8889a2c1c826d8c0.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1264,
+        "y": 176,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 843,
+        "y": 117,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "36_107"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        37
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1264,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 843,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "37_108"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        38
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1084,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 723,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "38_112"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        39
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1144,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 763,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "39_115"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        40
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1024,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 683,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "40_113"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        41
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 964,
+        "y": 240,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 643,
+        "y": 160,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "41_114"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        42
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1084,
+        "y": 180,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 723,
+        "y": 120,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "42_116"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        43
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1144,
+        "y": 180,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 763,
+        "y": 120,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "43_117"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        44
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1024,
+        "y": 180,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 683,
+        "y": 120,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "44_118"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        45
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 964,
+        "y": 180,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 643,
+        "y": 120,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "45_119"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        46
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1084,
+        "y": 120,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 723,
+        "y": 80,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "46_120"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        47
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1144,
+        "y": 120,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 763,
+        "y": 80,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "47_121"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        48
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1024,
+        "y": 120,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 683,
+        "y": 80,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "48_122"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        49
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 964,
+        "y": 120,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 643,
+        "y": 80,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "49_123"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        50
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 904,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 603,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "50_124"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        51
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1084,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 723,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "51_125"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        52
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1144,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 763,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "52_126"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        53
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1024,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 683,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "53_127"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        54
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 964,
+        "y": 60,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 643,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "54_128"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        55
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 904,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 603,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "55_129"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        56
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1084,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 723,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "56_130"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        57
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1144,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 763,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "57_131"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        58
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1024,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 683,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "58_132"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        59
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 964,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 643,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "59_133"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        60
+      ],
+      "asset": "images/levels/san_sheng/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 180,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 600,
+        "y": 120,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "60_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        61
+      ],
+      "asset": "images/levels/san_sheng/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 240,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 600,
+        "y": 160,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "61_100"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        62
+      ],
+      "asset": "images/levels/san_sheng/psd_8bfb6ecfe652c356.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 900,
+        "y": 300,
+        "width": 64,
+        "height": 64
+      },
+      "rect": {
+        "x": 600,
+        "y": 200,
+        "width": 43,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "62_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        63
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 964,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 643,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "63_91"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        64
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1024,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 683,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "64_101"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        65
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1084,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 723,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "65_102"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        66
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1144,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 763,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "66_103"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        67
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1204,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 803,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "67_104"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        68
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1264,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 843,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "68_105"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        69
+      ],
+      "asset": "images/levels/san_sheng/psd_1a570daa38c9deb8.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1324,
+        "y": 300,
+        "width": 60,
+        "height": 64
+      },
+      "rect": {
+        "x": 883,
+        "y": 200,
+        "width": 40,
+        "height": 43
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "69_106"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        70
+      ],
+      "asset": "images/levels/san_sheng/psd_044d97098ffcb96c.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 844,
+        "y": 0,
+        "width": 60,
+        "height": 60
+      },
+      "rect": {
+        "x": 563,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "70_99"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        7,
+        2,
+        71
+      ],
+      "asset": "images/levels/san_sheng/psd_47cac4679ac120d7.png",
+      "element_type": "terrain_block",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 360,
+        "y": 0,
+        "width": 64,
+        "height": 60
+      },
+      "rect": {
+        "x": 240,
+        "y": 0,
+        "width": 43,
+        "height": 40
+      },
+      "layer_path": [
+        "7_layer",
+        "2_3",
+        "71_81"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        6,
+        2
+      ],
+      "asset": "images/levels/san_sheng/psd_f2d64f6aa385356a.png",
+      "element_type": "terrain_platform",
+      "collision": {
+        "type": "solid"
+      },
+      "source_psd_rect": {
+        "x": 1422,
+        "y": 656,
+        "width": 274,
+        "height": 196
+      },
+      "rect": {
+        "x": 948,
+        "y": 437,
+        "width": 183,
+        "height": 131
+      },
+      "layer_path": [
+        "6_layer",
+        "2_layer"
+      ]
+    },
+    {
+      "source_layer_indices": [
+        9
+      ],
+      "asset": "images/levels/san_sheng/psd_b9c8bd7fe2c88f1e.png",
+      "element_type": "decoration",
+      "collision": null,
+      "source_psd_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "layer_path": [
+        "9_layer"
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "id": "san_sheng_door",
+      "element_type": "door",
+      "source_layer_indices": [
+        4
+      ],
+      "source_psd_rect": {
+        "x": 221,
+        "y": 860,
+        "width": 89,
+        "height": 99
+      },
+      "rect": {
+        "x": 147,
+        "y": 573,
+        "width": 60,
+        "height": 66
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/san_sheng/door.png",
+      "layer_path": [
+        "4_layer"
+      ]
+    },
+    {
+      "id": "san_sheng_gate",
+      "element_type": "gate",
+      "source_layer_indices": [
+        5
+      ],
+      "source_psd_rect": {
+        "x": 401,
+        "y": 839,
+        "width": 99,
+        "height": 190
+      },
+      "rect": {
+        "x": 267,
+        "y": 559,
+        "width": 66,
+        "height": 127
+      },
+      "collision": {
+        "type": "solid"
+      },
+      "asset": "images/levels/san_sheng/fence_gate.png",
+      "layer_path": [
+        "5_layer"
+      ]
+    },
+    {
+      "id": "san_sheng_lever",
+      "element_type": "lever",
+      "source_layer_indices": [
+        3
+      ],
+      "source_psd_rect": {
+        "x": 424,
+        "y": 166,
+        "width": 67,
+        "height": 74
+      },
+      "rect": {
+        "x": 283,
+        "y": 111,
+        "width": 44,
+        "height": 49
+      },
+      "asset": "images/levels/san_sheng/lever.png",
+      "layer_path": [
+        "3_layer"
+      ]
+    },
+    {
+      "id": "san_sheng_door_key",
+      "element_type": "key",
+      "source_layer_indices": [
+        11
+      ],
+      "source_psd_rect": {
+        "x": 1348,
+        "y": 90,
+        "width": 30,
+        "height": 54
+      },
+      "rect": {
+        "x": 899,
+        "y": 60,
+        "width": 20,
+        "height": 36
+      },
+      "asset": "images/levels/san_sheng/key.png",
+      "layer_path": [
+        "11_layer"
+      ]
+    },
+    {
+      "id": "san_sheng_spawn",
+      "element_type": "spawn",
+      "source_layer_indices": [
+        10
+      ],
+      "source_psd_rect": {
+        "x": 60,
+        "y": 576,
+        "width": 60,
+        "height": 80
+      },
+      "rect": {
+        "x": 40,
+        "y": 384,
+        "width": 40,
+        "height": 53
+      },
+      "layer_path": [
+        "10_60_80"
+      ]
+    },
+    {
+      "id": "san_sheng_collectible",
+      "element_type": "collectible",
+      "source_layer_indices": [
+        12
+      ],
+      "source_psd_rect": {
+        "x": 815,
+        "y": 244,
+        "width": 25,
+        "height": 57
+      },
+      "rect": {
+        "x": 543,
+        "y": 163,
+        "width": 17,
+        "height": 38
+      },
+      "layer_path": [
+        "12_box-export"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_0",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        0
+      ],
+      "source_psd_rect": {
+        "x": 1502,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 1001,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_0.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "0_layer"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_1",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        1
+      ],
+      "source_psd_rect": {
+        "x": 1610,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 1073,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_1.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "1_136"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_2",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        2
+      ],
+      "source_psd_rect": {
+        "x": 1232,
+        "y": 948,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 821,
+        "y": 632,
+        "width": 38,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_2.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "2_137"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_3",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        3
+      ],
+      "source_psd_rect": {
+        "x": 1286,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 857,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_3.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "3_138"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_4",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        4
+      ],
+      "source_psd_rect": {
+        "x": 240,
+        "y": 445,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 160,
+        "y": 297,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_4.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "4_137"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_5",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        5
+      ],
+      "source_psd_rect": {
+        "x": 430,
+        "y": 348,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 287,
+        "y": 232,
+        "width": 37,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_5.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "5_138"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_6",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        6
+      ],
+      "source_psd_rect": {
+        "x": 570,
+        "y": 463,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 380,
+        "y": 309,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_6.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "6_139"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_7",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        7
+      ],
+      "source_psd_rect": {
+        "x": 698,
+        "y": 356,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 465,
+        "y": 237,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_7.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "7_149"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_8",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        8
+      ],
+      "source_psd_rect": {
+        "x": 1558,
+        "y": 445,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 1039,
+        "y": 297,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_8.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "8_139"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_9",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        9
+      ],
+      "source_psd_rect": {
+        "x": 1530,
+        "y": 176,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 1020,
+        "y": 117,
+        "width": 37,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_9.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "9_139"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_10",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        10
+      ],
+      "source_psd_rect": {
+        "x": 1719,
+        "y": 336,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 1146,
+        "y": 224,
+        "width": 37,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_10.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "10_149"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_11",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        11
+      ],
+      "source_psd_rect": {
+        "x": 1394,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 929,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_11.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "11_140"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_12",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        12
+      ],
+      "source_psd_rect": {
+        "x": 1016,
+        "y": 948,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 677,
+        "y": 632,
+        "width": 38,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_12.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "12_141"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_13",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        13
+      ],
+      "source_psd_rect": {
+        "x": 1070,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 713,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_13.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "13_142"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_14",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        14
+      ],
+      "source_psd_rect": {
+        "x": 1124,
+        "y": 948,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 749,
+        "y": 632,
+        "width": 38,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_14.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "14_143"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_15",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        15
+      ],
+      "source_psd_rect": {
+        "x": 1178,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 785,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_15.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "15_144"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_16",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        16
+      ],
+      "source_psd_rect": {
+        "x": 800,
+        "y": 948,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 533,
+        "y": 632,
+        "width": 38,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_16.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "16_145"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_17",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        17
+      ],
+      "source_psd_rect": {
+        "x": 854,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 569,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_17.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "17_146"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_18",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        18
+      ],
+      "source_psd_rect": {
+        "x": 908,
+        "y": 948,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 605,
+        "y": 632,
+        "width": 38,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_18.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "18_147"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_19",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        19
+      ],
+      "source_psd_rect": {
+        "x": 962,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 641,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_19.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "19_148"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_20",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        20
+      ],
+      "source_psd_rect": {
+        "x": 584,
+        "y": 948,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 389,
+        "y": 632,
+        "width": 38,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_20.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "20_150"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_21",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        21
+      ],
+      "source_psd_rect": {
+        "x": 638,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 425,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_21.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "21_151"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_22",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        22
+      ],
+      "source_psd_rect": {
+        "x": 692,
+        "y": 948,
+        "width": 56,
+        "height": 75
+      },
+      "rect": {
+        "x": 461,
+        "y": 632,
+        "width": 38,
+        "height": 50
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_22.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "22_152"
+      ]
+    },
+    {
+      "id": "san_sheng_fragile_23",
+      "element_type": "fragile_platform",
+      "source_layer_indices": [
+        6,
+        0,
+        23
+      ],
+      "source_psd_rect": {
+        "x": 746,
+        "y": 948,
+        "width": 56,
+        "height": 72
+      },
+      "rect": {
+        "x": 497,
+        "y": 632,
+        "width": 38,
+        "height": 48
+      },
+      "asset": "images/levels/san_sheng/platform_fragile_23.png",
+      "layer_path": [
+        "6_layer",
+        "0_layer",
+        "23_153"
+      ]
+    }
+  ]
+}
